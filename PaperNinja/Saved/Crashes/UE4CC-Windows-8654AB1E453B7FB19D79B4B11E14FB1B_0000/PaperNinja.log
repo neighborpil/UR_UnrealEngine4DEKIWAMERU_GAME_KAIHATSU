@@ -1,0 +1,556 @@
+﻿Log file open, 12/14/17 23:36:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PaperNinja
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1237027906) SRandInit(-1237027906).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.213141
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.14-14.36.43:190][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.14-14.36.43:190][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.14-14.36.43:215][  0]LogInit: Computer: DESKTOP-AG2L671
+[2017.12.14-14.36.43:215][  0]LogInit: User: neigh
+[2017.12.14-14.36.43:215][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.14-14.36.43:215][  0]LogInit: High frequency timer resolution =2.250003 MHz
+[2017.12.14-14.36.43:215][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.14-14.36.43:215][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.14-14.36.43:215][  0]LogMemory: Process Physical Memory: 272.94 MB used, 272.94 MB peak
+[2017.12.14-14.36.43:215][  0]LogMemory: Process Virtual Memory: 271.51 MB used, 271.51 MB peak
+[2017.12.14-14.36.43:215][  0]LogMemory: Physical Memory: 3159.00 MB used,  4953.89 MB free, 8112.89 MB total
+[2017.12.14-14.36.43:215][  0]LogMemory: Virtual Memory: 645.12 MB used,  4953.89 MB free, 134217728.00 MB total
+[2017.12.14-14.36.43:365][  0]LogInit: Using OS detected language (ko-KR).
+[2017.12.14-14.36.43:365][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.12.14-14.36.43:367][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.12.14-14.36.43:576][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.14-14.36.43:822][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.14-14.36.43:924][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2017.12.14-14.36.43:924][  0]LogD3D11RHI:       2017/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.14-14.36.43:930][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.12.14-14.36.43:930][  0]LogD3D11RHI:       128/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.14-14.36.43:931][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.14-14.36.43:931][  0]LogD3D11RHI:       0/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.14-14.36.43:931][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.14-14.36.43:937][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.14-14.36.43:937][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2017.12.14-14.36.43:937][  0]LogWindows: EnumDisplayDevices:
+[2017.12.14-14.36.43:937][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2017.12.14-14.36.43:938][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2017.12.14-14.36.43:938][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.14-14.36.43:938][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960M' (P:0 D:0)
+[2017.12.14-14.36.43:938][  0]LogWindows:    4. 'NVIDIA GeForce GTX 960M' (P:0 D:0)
+[2017.12.14-14.36.43:938][  0]LogWindows:    5. 'NVIDIA GeForce GTX 960M' (P:0 D:0)
+[2017.12.14-14.36.43:938][  0]LogWindows:    6. 'NVIDIA GeForce GTX 960M' (P:0 D:0)
+[2017.12.14-14.36.43:938][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.12.14-14.36.43:938][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2017.12.14-14.36.43:938][  0]LogD3D11RHI:   Driver Version: 388.59 (internal:23.21.13.8859, unified:388.59)
+[2017.12.14-14.36.43:938][  0]LogD3D11RHI:      Driver Date: 12-5-2017
+[2017.12.14-14.36.43:938][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2017.12.14-14.36.43:968][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.14-14.36.43:986][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.14-14.36.43:987][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Intermediate/Shaders/WorkingDirectory/9804/).
+[2017.12.14-14.36.43:987][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/neigh/AppData/Local/Temp/UnrealShaderWorkingDir/3C90DFB74A2EBE54DC726FB5D97B4305/'.
+[2017.12.14-14.36.43:987][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.14-14.36.44:889][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.14-14.36.44:929][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.14-14.36.44:969][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.14-14.36.45:009][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.14-14.36.45:051][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.14-14.36.45:090][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.14-14.36.45:131][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.14-14.36.45:172][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.14-14.36.45:205][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.14-14.36.45:248][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.14-14.36.45:288][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.14-14.36.45:332][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.14-14.36.45:376][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.14-14.36.45:419][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.14-14.36.45:507][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.14-14.36.45:507][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.14-14.36.45:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.14-14.36.45:585][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.14-14.36.45:662][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.14-14.36.45:695][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.14-14.36.45:744][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.14-14.36.45:783][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.14-14.36.45:822][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.14-14.36.45:860][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.14-14.36.45:860][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.14-14.36.46:207][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.14-14.36.46:318][  0]LogDerivedDataCache: Loaded boot cache 0.11s 78MB C:/Users/neigh/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.14-14.36.46:318][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/neigh/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.14-14.36.46:318][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.14-14.36.46:318][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.14-14.36.46:318][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.14-14.36.46:318][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.14-14.36.46:337][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.14-14.36.46:350][  0]LogDerivedDataCache: Using Local data cache path C:/Users/neigh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.14-14.36.46:362][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.14-14.36.46:363][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.14-14.36.46:363][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.14-14.36.46:363][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.14-14.36.46:830][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.14-14.36.47:132][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.14-14.36.47:162][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.14-14.36.47:162][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.14-14.36.47:162][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.14-14.36.47:162][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.14-14.36.47:162][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.14-14.36.47:194][  0]LogNetVersion: PaperNinja , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 109285166)
+[2017.12.14-14.36.47:361][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2017.12.14-14.36.47:926][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.088007 seconds
+[2017.12.14-14.36.47:936][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.14-14.36.47:936][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.14-14.36.47:936][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.14-14.36.47:984][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.14-14.36.51:667][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.14-14.36.51:720][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.14-14.36.52:741][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.14-14.36.53:113][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.14-14.36.53:113][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.14-14.36.53:155][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.14-14.36.53:195][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.14-14.36.53:845][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.14-14.36.54:054][  0]LogOcInput: OculusInput pre-init called
+[2017.12.14-14.36.54:304][  0]LogEngine: Initializing Engine...
+[2017.12.14-14.36.54:312][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.14-14.36.54:697][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.14-14.36.54:698][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.14-14.36.54:890][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.14-14.36.54:904][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.14-14.36.54:963][  0]LogInit: FAudioDevice initialized.
+[2017.12.14-14.36.55:094][  0]LogDerivedDataCache: Saved boot cache 0.13s 78MB C:/Users/neigh/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.14-14.36.55:105][  0]LogInit: Texture streaming: Enabled
+[2017.12.14-14.36.55:222][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.14-14.36.55:382][  0]LogInit: Transaction tracking system initialized
+[2017.12.14-14.36.55:669][  0]BlueprintLog: New page: 에디터 로드
+[2017.12.14-14.36.56:565][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.12.14-14.36.57:276][  0]LogConsoleResponse: Display: 
+[2017.12.14-14.36.57:594][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.14-14.36.57:594][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.14-14.36.57:594][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.14-14.36.58:260][  0]LogFileCache: Scanning file cache for directory 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/' took 0.03s
+[2017.12.14-14.36.58:850][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.14-14.36.58:850][  0]Cmd: MAP LOAD FILE="C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.14-14.36.58:851][  0]LightingResults: New page: 라이팅 빌드
+[2017.12.14-14.36.58:883][  0]MapCheck: New page: 맵 체크
+[2017.12.14-14.36.58:883][  0]LightingResults: New page: 라이팅 빌드
+[2017.12.14-14.36.59:358][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.12.14-14.36.59:374][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.14-14.36.59:393][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.14-14.36.59:441][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 47.591ms.
+[2017.12.14-14.36.59:441][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.590
+[2017.12.14-14.36.59:598][  0]LogCollectionManager: Loaded 0 collections in 0.001420 seconds
+[2017.12.14-14.36.59:672][  0]LogFileCache: Scanning file cache for directory 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Collections/' took 0.01s
+[2017.12.14-14.36.59:672][  0]LogFileCache: Scanning file cache for directory 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Developers/neigh/Collections/' took 0.01s
+[2017.12.14-14.36.59:672][  0]LogFileCache: Scanning file cache for directory 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Collections/' took 0.01s
+[2017.12.14-14.36.59:672][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.14-14.36.59:681][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2363 classes and 519 folders.
+[2017.12.14-14.36.59:731][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.14-14.36.59:763][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.14-14.36.59:797][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.14-14.36.59:816][  0]LogSlate: Took 0.000671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.14-14.36.59:824][  0]LogSlate: Took 0.006632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.12.14-14.36.59:826][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.14-14.36.59:841][  0]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.14-14.36.59:978][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.14-14.37.00:235][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.14-14.37.00:235][  0]LogLoad: (Engine Initialization) Total time: 19.04 seconds
+[2017.12.14-14.37.00:235][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.14-14.37.00:235][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.14-14.37.00:235][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.14-14.37.00:596][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.14-14.37.00:696][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.14-14.37.01:257][  2]LogAssetRegistry: Asset discovery search completed in 13.9179 seconds
+[2017.12.14-14.37.01:261][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.14-14.37.01:261][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000091 seconds (updated 0 objects)
+[2017.12.14-14.37.37:443][535]Cmd: MAP LOAD FILE="C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.14-14.37.37:456][535]LogSlate: Took 0.000497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.14-14.37.37:470][535]LightingResults: New page: 라이팅 빌드
+[2017.12.14-14.37.37:472][535]LoadErrors: New page: 맵 로드중: PNStage01_Top.umap
+[2017.12.14-14.37.37:479][535]MapCheck: New page: 맵 체크
+[2017.12.14-14.37.37:479][535]LightingResults: New page: 라이팅 빌드
+[2017.12.14-14.37.37:505][535]LogAIModule: Creating AISystem for world PNStage01_Top
+[2017.12.14-14.37.37:514][535]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.14-14.37.37:545][535]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.14-14.37.37:585][535]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 40.396ms.
+[2017.12.14-14.37.37:585][535]LogFileHelpers: Loading map 'PNStage01_Top' took 0.143
+[2017.12.14-14.42.43:743][523]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Props/Meshes/SM_Coin.fbx)
+[2017.12.14-14.42.44:137][523]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.14-14.42.44:137][523]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.12.14-14.42.44:137][523]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.12.14-14.42.44:137][523]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.12.14-14.42.44:137][523]LogFbx: ItemName: Material, ItemCount : 1
+[2017.12.14-14.42.44:137][523]LogFbx: ItemName: Texture, ItemCount : 1
+[2017.12.14-14.42.44:137][523]LogFbx: ItemName: Model, ItemCount : 1
+[2017.12.14-14.42.44:137][523]LogFbx: ItemName: Video, ItemCount : 1
+[2017.12.14-14.42.44:236][523]LogFbx: Loading FBX Scene from C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Props/Meshes/SM_Coin.fbx
+[2017.12.14-14.42.44:353][523]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.14-14.43.41:279][523]LogFbx: Loading FBX Scene from C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Props/Meshes/SM_Coin.fbx
+[2017.12.14-14.43.41:286][523]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.14-14.43.41:325][523]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2017.12.14-14.43.41:404][523]LogStaticMesh: SM_Coin 스태틱 메시 빌드중...
+[2017.12.14-14.43.41:445][523]LogStaticMesh: Built static mesh [0.04s] /Game/Props/SM_Coin.SM_Coin
+[2017.12.14-14.43.52:391][337]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2017.12.14-14.43.52:562][337]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.14-14.43.52:597][337]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2017.12.14-14.44.23:755][826]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Props/Meshes/SM_Scroll.fbx)
+[2017.12.14-14.44.23:775][826]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.14-14.44.23:775][826]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.12.14-14.44.23:775][826]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.12.14-14.44.23:775][826]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.12.14-14.44.23:775][826]LogFbx: ItemName: Material, ItemCount : 1
+[2017.12.14-14.44.23:775][826]LogFbx: ItemName: Texture, ItemCount : 1
+[2017.12.14-14.44.23:775][826]LogFbx: ItemName: Model, ItemCount : 1
+[2017.12.14-14.44.23:775][826]LogFbx: ItemName: Video, ItemCount : 1
+[2017.12.14-14.44.23:780][826]LogFbx: Loading FBX Scene from C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Props/Meshes/SM_Scroll.fbx
+[2017.12.14-14.44.23:788][826]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.14-14.44.35:429][826]LogFbx: Loading FBX Scene from C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Props/Meshes/SM_Scroll.fbx
+[2017.12.14-14.44.35:437][826]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.14-14.44.35:438][826]LogFbx: Warning: Triangulating static mesh group3
+[2017.12.14-14.44.35:449][826]LogStaticMesh: SM_Scroll 스태틱 메시 빌드중...
+[2017.12.14-14.44.35:459][826]LogStaticMesh: Built static mesh [0.01s] /Game/Props/SM_Scroll.SM_Scroll
+[2017.12.14-14.45.22:124][940]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Meshes/SM_Wall.fbx)
+[2017.12.14-14.45.22:136][940]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.14-14.45.22:136][940]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.12.14-14.45.22:136][940]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.12.14-14.45.22:136][940]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2017.12.14-14.45.22:136][940]LogFbx: ItemName: Model, ItemCount : 3
+[2017.12.14-14.45.22:136][940]LogFbx: ItemName: Geometry, ItemCount : 2
+[2017.12.14-14.45.22:136][940]LogFbx: ItemName: Material, ItemCount : 2
+[2017.12.14-14.45.22:136][940]LogFbx: ItemName: Texture, ItemCount : 1
+[2017.12.14-14.45.22:136][940]LogFbx: ItemName: Video, ItemCount : 1
+[2017.12.14-14.45.22:141][940]LogFbx: Loading FBX Scene from C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Meshes/SM_Wall.fbx
+[2017.12.14-14.45.22:150][940]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.14-14.45.31:451][940]LogFbx: Loading FBX Scene from C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Meshes/SM_Wall.fbx
+[2017.12.14-14.45.31:459][940]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.14-14.45.31:460][940]LogFbx: Warning: Triangulating static mesh SM_Wall_M2
+[2017.12.14-14.45.31:486][940]LogFbx: Warning: Triangulating mesh UCX_SM_Wall_M2 for collision model
+[2017.12.14-14.45.31:512][940]LogStaticMesh: SM_Wall 스태틱 메시 빌드중...
+[2017.12.14-14.45.31:514][940]LogStaticMesh: Built static mesh [0.00s] /Game/Architecture/SM_Wall.SM_Wall
+[2017.12.14-14.46.38:996][408]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:2112).
+[2017.12.14-14.49.19:255][715]LogEditorFactories: Performing atomic reimport of [C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Meshes/SM_Wall.fbx]
+[2017.12.14-14.49.19:308][715]LogFbx: Loading FBX Scene from C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Meshes/SM_Wall.fbx
+[2017.12.14-14.49.19:316][715]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.14-14.49.19:320][715]LogFbx: Warning: Triangulating static mesh SM_Wall_M2
+[2017.12.14-14.49.19:322][715]LogFbx: Warning: Triangulating mesh UCX_SM_Wall_M2 for collision model
+[2017.12.14-14.49.19:357][715]LogStaticMesh: SM_Wall 스태틱 메시 빌드중...
+[2017.12.14-14.49.19:361][715]LogStaticMesh: Built static mesh [0.00s] /Game/Architecture/SM_Wall.SM_Wall
+[2017.12.14-14.49.19:390][715]LogEditorFactories: -- imported successfully
+[2017.12.14-14.49.19:455][715]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.14-14.49.44:139][ 96]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.014
+[2017.12.14-14.49.44:186][ 96]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/SM_Coin] ([1] browsable assets)...
+[2017.12.14-14.49.44:253][ 96]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/SM_Coin.SM_Coin]
+[2017.12.14-14.49.44:253][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/SM_Coin]
+[2017.12.14-14.49.44:360][ 96]LogSavePackage: Save=77.51ms
+[2017.12.14-14.49.44:360][ 96]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Coin_Auto16B3EB80D45A27D4E3E6293BB8F5EC95A.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/SM_Coin_Auto1.uasset'
+[2017.12.14-14.49.44:363][ 96]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/SM_Coin_Auto1.uasset
+[2017.12.14-14.49.44:364][ 96]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/SM_Scroll] ([1] browsable assets)...
+[2017.12.14-14.49.44:403][ 96]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/SM_Scroll.SM_Scroll]
+[2017.12.14-14.49.44:403][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/SM_Scroll]
+[2017.12.14-14.49.44:417][ 96]LogSavePackage: Save=11.70ms
+[2017.12.14-14.49.44:417][ 96]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Scroll_Auto1D1C937034A99EE4E6712B9B318434296.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/SM_Scroll_Auto1.uasset'
+[2017.12.14-14.49.44:419][ 96]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/SM_Scroll_Auto1.uasset
+[2017.12.14-14.49.44:420][ 96]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/SM_Wall] ([1] browsable assets)...
+[2017.12.14-14.49.44:461][ 96]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Architecture/SM_Wall.SM_Wall]
+[2017.12.14-14.49.44:461][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/SM_Wall]
+[2017.12.14-14.49.44:475][ 96]LogSavePackage: Save=12.15ms
+[2017.12.14-14.49.44:475][ 96]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Wall_Auto1575B7BCB40F67C742DB6BC841885A359.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Wall_Auto1.uasset'
+[2017.12.14-14.49.44:478][ 96]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Wall_Auto1.uasset
+[2017.12.14-14.49.44:478][ 96]LogFileHelpers: Auto-saving content packages took 0.338
+[2017.12.14-14.50.07:154][249]LogEditorViewport: Clicking Background
+[2017.12.14-14.50.07:837][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Coin" FILE="C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Coin.uasset" SILENT=true
+[2017.12.14-14.50.07:851][301]LogSavePackage: Save=12.36ms
+[2017.12.14-14.50.07:851][301]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Coin11C270ED43412574CEAF7CBC990963CD.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Coin.uasset'
+[2017.12.14-14.50.07:856][301]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Coin.uasset
+[2017.12.14-14.50.07:882][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Scroll" FILE="C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Scroll.uasset" SILENT=true
+[2017.12.14-14.50.07:895][301]LogSavePackage: Save=11.60ms
+[2017.12.14-14.50.07:895][301]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_ScrollC8114C284BF8A22C984024B63A8FD931.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Scroll.uasset'
+[2017.12.14-14.50.07:899][301]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Scroll.uasset
+[2017.12.14-14.50.07:921][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Wall" FILE="C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/SM_Wall.uasset" SILENT=true
+[2017.12.14-14.50.07:936][301]LogSavePackage: Save=12.21ms
+[2017.12.14-14.50.07:936][301]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Wall87DB881A4610C621CDE3A0A0CB960852.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/SM_Wall.uasset'
+[2017.12.14-14.50.07:940][301]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/SM_Wall.uasset
+[2017.12.14-14.50.40:304][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Byoubu_01.tga)
+[2017.12.14-14.50.40:383][ 14]LogTexture: Display: 텍스처 빌드: T_Byoubu_01 (AutoDXT, 256X1024)
+[2017.12.14-14.50.40:811][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Byoubu_02.tga)
+[2017.12.14-14.50.40:819][ 14]LogTexture: Display: 텍스처 빌드: T_Byoubu_02 (AutoDXT, 256X1024)
+[2017.12.14-14.50.41:236][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Byoubu_03.tga)
+[2017.12.14-14.50.41:243][ 14]LogTexture: Display: 텍스처 빌드: T_Byoubu_03 (AutoDXT, 256X1024)
+[2017.12.14-14.50.41:656][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Byoubu_04.tga)
+[2017.12.14-14.50.41:663][ 14]LogTexture: Display: 텍스처 빌드: T_Byoubu_04 (AutoDXT, 256X1024)
+[2017.12.14-14.50.42:085][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Byoubu_05.tga)
+[2017.12.14-14.50.42:093][ 14]LogTexture: Display: 텍스처 빌드: T_Byoubu_05 (AutoDXT, 256X1024)
+[2017.12.14-14.50.42:504][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Byoubu_06.tga)
+[2017.12.14-14.50.42:511][ 14]LogTexture: Display: 텍스처 빌드: T_Byoubu_06 (AutoDXT, 256X1024)
+[2017.12.14-14.50.42:912][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Byoubu_side.tga)
+[2017.12.14-14.50.42:919][ 14]LogTexture: Display: 텍스처 빌드: T_Byoubu_side (AutoDXT, 64X512)
+[2017.12.14-14.50.43:013][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Cardboard01_N.TGA)
+[2017.12.14-14.50.43:054][ 14]LogTexture: Display: 텍스처 빌드: T_Cardboard01_N (BC5, 1024X1024)
+[2017.12.14-14.50.43:301][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Cardboard02_N.TGA)
+[2017.12.14-14.50.43:316][ 14]LogTexture: Display: 텍스처 빌드: T_Cardboard02_N (BC5, 128X128)
+[2017.12.14-14.50.43:343][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_CardboardInside_D.TGA)
+[2017.12.14-14.50.43:350][ 14]LogTexture: Display: 텍스처 빌드: T_CardboardInside_D (AutoDXT, 512X512)
+[2017.12.14-14.50.43:714][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_CardboardSide02_D.TGA)
+[2017.12.14-14.50.43:717][ 14]LogTexture: Display: 텍스처 빌드: T_CardboardSide02_D (AutoDXT, 512X128)
+[2017.12.14-14.50.43:771][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_CardboardSide02_N.tga)
+[2017.12.14-14.50.43:788][ 14]LogTexture: Display: 텍스처 빌드: T_CardboardSide02_N (BC5, 512X128)
+[2017.12.14-14.50.43:818][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_FlatDummy_N.tga)
+[2017.12.14-14.50.43:837][ 14]LogTexture: Display: 텍스처 빌드: T_FlatDummy_N (BC5, 256X256)
+[2017.12.14-14.50.43:871][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Floor01_D.tga)
+[2017.12.14-14.50.43:900][ 14]LogTexture: Display: 텍스처 빌드: T_Floor01_D (AutoDXT, 1024X1024)
+[2017.12.14-14.50.44:235][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Floor01_Side_D.tga)
+[2017.12.14-14.50.44:239][ 14]LogTexture: Display: 텍스처 빌드: T_Floor01_Side_D (AutoDXT, 512X128)
+[2017.12.14-14.50.44:317][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Floor01_Side_N.tga)
+[2017.12.14-14.50.44:330][ 14]LogTexture: Display: 텍스처 빌드: T_Floor01_Side_N (BC5, 512X128)
+[2017.12.14-14.50.44:375][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Fusuma01_D.tga)
+[2017.12.14-14.50.44:441][ 14]LogTexture: Display: 텍스처 빌드: T_Fusuma01_D (AutoDXT, 2048X1024)
+[2017.12.14-14.50.47:751][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_IronFloor01_D.tga)
+[2017.12.14-14.50.47:760][ 14]LogTexture: Display: 텍스처 빌드: T_IronFloor01_D (AutoDXT, 512X512)
+[2017.12.14-14.50.48:649][ 14]LogTexture: Display: 텍스처 빌드: T_Pillar01_D (AutoDXT, 512X1024)
+[2017.12.14-14.51.07:836][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Tatami_Loop_D.tga)
+[2017.12.14-14.51.07:973][ 14]LogTexture: Display: 텍스처 빌드: T_Tatami_Loop_D (AutoDXT, 2048X2048)
+[2017.12.14-14.51.14:619][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Tatami_Loop_N.tga)
+[2017.12.14-14.51.14:769][ 14]LogTexture: Display: 텍스처 빌드: T_Tatami_Loop_N (BC5, 2048X2048)
+[2017.12.14-14.51.15:770][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Wall01_D.tga)
+[2017.12.14-14.51.15:855][ 14]LogTexture: Display: 텍스처 빌드: T_Wall01_D (AutoDXT, 2048X1024)
+[2017.12.14-14.51.18:884][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_Wall01_M.tga)
+[2017.12.14-14.51.18:950][ 14]LogTexture: Display: 텍스처 빌드: T_Wall01_M (AutoDXT, 2048X1024)
+[2017.12.14-14.51.19:200][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja_Resource/Architecture/Textures/T_White_D.tga)
+[2017.12.14-14.51.19:215][ 14]LogTexture: Display: 텍스처 빌드: T_White_D (AutoDXT, 128X128)
+[2017.12.14-14.51.59:029][271]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\[Codes]\GitRepository\UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU\PaperNinja_Resource\Props\Textures/T_Bonfire_D.tga)
+[2017.12.14-14.51.59:156][271]LogTexture: Display: 텍스처 빌드: T_Bonfire_D (AutoDXT, 2048X2048)
+[2017.12.14-14.53.05:707][271]LogStats: FPlatformStackWalk::StackWalkAndDump - 60.508 s
+[2017.12.14-14.53.05:716][271]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.14-14.53.05:716][271]LogOutputDevice: Error: 
+[2017.12.14-14.53.05:716][271]LogOutputDevice: Error: Ensure condition failed: ExpectedWorkThisFrame <= 1.01f * TotalAmountOfWork - CompletedWork [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Core\Private\Misc\SlowTask.cpp] [Line: 86]
+[2017.12.14-14.53.05:716][271]LogOutputDevice: Error: Work overflow in slow task. Please revise call-site to account for entire progress range.
+[2017.12.14-14.53.05:716][271]LogOutputDevice: Error: Stack: 
+[2017.12.14-14.53.05:716][271]LogOutputDevice: Error: [Callstack] 0x00000000B6892786 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:200]
+[2017.12.14-14.53.05:716][271]LogOutputDevice: Error: [Callstack] 0x00000000B663123A UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:298]
+[2017.12.14-14.53.05:716][271]LogOutputDevice: Error: [Callstack] 0x00000000B664B906 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:425]
+[2017.12.14-14.53.05:716][271]LogOutputDevice: Error: [Callstack] 0x00000000B670B95E UE4Editor-Core.dll!FSlowTask::EnterProgressFrame() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\misc\slowtask.cpp:86]
+[2017.12.14-14.53.05:716][271]LogOutputDevice: Error: [Callstack] 0x0000000099AE8268 UE4Editor-AssetTools.dll!UAssetToolsImpl::ImportAssetsInternal() [d:\build\++ue4+release-4.18+compile\sync\engine\source\developer\assettools\private\assettools.cpp:1304]
+[2017.12.14-14.53.05:716][271]LogOutputDevice: Error: [Callstack] 0x0000000099AE6A88 UE4Editor-AssetTools.dll!UAssetToolsImpl::ImportAssets() [d:\build\++ue4+release-4.18+compile\sync\engine\source\developer\assettools\private\assettools.cpp:783]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000983E76E1 UE4Editor-ContentBrowser.dll!SPathView::TreeFilesDropped() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\contentbrowser\private\spathview.cpp:1363]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000983B9677 UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SPathView,0,TTypeWrapper<void> __cdecl(TArray<FString,FDefaultAllocator> const & __ptr64,TSharedPtr<FTreeItem,0> const & __ptr64)>::Execute() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:327]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000983BB2D7 UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SPathView,0,void __cdecl(TArray<FString,FDefaultAllocator> const & __ptr64,TSharedPtr<FTreeItem,0> const & __ptr64)>::ExecuteIfSafe() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:434]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000983D52DD UE4Editor-ContentBrowser.dll!SAssetTreeItem::OnDrop() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\contentbrowser\private\sourcesviewwidgets.cpp:159]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000B2B16C4B UE4Editor-Slate.dll!<lambda_74ecb22bb70e3f50c9d83154dfa5c688>::operator()() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5300]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000B2AE777E UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FPointerEvent,<lambda_74ecb22bb70e3f50c9d83154dfa5c688> >() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:234]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000B2B82AF2 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5296]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000B2B6B092 UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5750]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000B2B5A0FE UE4Editor-Slate.dll!FSlateApplication::OnDragDrop() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6852]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000BBCDC4B2 UE4Editor-ApplicationCore.dll!FWindowsApplication::OnOLEDrop() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2395]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000BBCD21D7 UE4Editor-ApplicationCore.dll!FWindowsWindow::Drop() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowswindow.cpp:1132]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E7ECE188 ole32.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E9BF9083 RPCRT4.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E9C5C93E RPCRT4.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E9B991B4 RPCRT4.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E9E24D99 combase.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E9EC795B combase.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E9EC6286 combase.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E9ECC75E combase.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E9EC83FF combase.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E9EC48AA combase.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E9E63369 combase.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E9E62FE8 combase.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E81FBC50 USER32.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000E81FB5CF USER32.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000BBCE1516 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:129]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000BD1F50C8 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3220]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000BD205430 UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000BD2054AA UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:134]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000BD212379 UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:210]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000BD213D57 UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000EA132774 KERNEL32.DLL!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: [Callstack] 0x00000000EA8C0D51 ntdll.dll!UnknownFunction []
+[2017.12.14-14.53.05:717][271]LogOutputDevice: Error: 
+[2017.12.14-14.53.05:718][271]LogStats:                SubmitErrorReport -  0.000 s
