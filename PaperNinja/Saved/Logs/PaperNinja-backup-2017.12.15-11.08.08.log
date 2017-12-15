@@ -1,0 +1,1075 @@
+﻿Log file open, 12/15/17 08:40:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PaperNinja
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1522156286) SRandInit(1522156286).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172442
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.14-23.40.02:172][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.14-23.40.02:172][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.14-23.40.02:181][  0]LogInit: Computer: DESKTOP-M4SNJ2V
+[2017.12.14-23.40.02:181][  0]LogInit: User: Company
+[2017.12.14-23.40.02:181][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.14-23.40.02:181][  0]LogInit: High frequency timer resolution =3.328126 MHz
+[2017.12.14-23.40.02:181][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.12.14-23.40.02:181][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.14-23.40.02:181][  0]LogMemory: Process Physical Memory: 273.47 MB used, 273.47 MB peak
+[2017.12.14-23.40.02:181][  0]LogMemory: Process Virtual Memory: 271.70 MB used, 271.70 MB peak
+[2017.12.14-23.40.02:181][  0]LogMemory: Physical Memory: 5550.30 MB used,  10785.31 MB free, 16335.61 MB total
+[2017.12.14-23.40.02:181][  0]LogMemory: Virtual Memory: 645.99 MB used,  10785.31 MB free, 134217728.00 MB total
+[2017.12.14-23.40.02:324][  0]LogInit: Overriding language with editor language configuration option (ko).
+[2017.12.14-23.40.02:324][  0]LogInit: Overriding locale with editor locale configuration option (ko).
+[2017.12.14-23.40.02:471][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.14-23.40.02:740][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.14-23.40.02:794][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2017.12.14-23.40.02:794][  0]LogD3D11RHI:       1987/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.14-23.40.02:796][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.14-23.40.02:796][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.14-23.40.02:796][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.14-23.40.02:801][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.14-23.40.02:801][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.14-23.40.02:801][  0]LogWindows: EnumDisplayDevices:
+[2017.12.14-23.40.02:801][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2017.12.14-23.40.02:802][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2017.12.14-23.40.02:802][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2017.12.14-23.40.02:803][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2017.12.14-23.40.02:803][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.14-23.40.02:803][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2017.12.14-23.40.02:803][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.14-23.40.02:803][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.14-23.40.02:803][  0]LogRHI: Texture pool is 1391 MB (70% of 1987 MB)
+[2017.12.14-23.40.02:831][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.14-23.40.02:841][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.14-23.40.02:944][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Intermediate/Shaders/WorkingDirectory/17684/).
+[2017.12.14-23.40.02:944][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Company/AppData/Local/Temp/UnrealShaderWorkingDir/388C51A5427A682D8D8739AF84428D25/'.
+[2017.12.14-23.40.02:944][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.14-23.40.03:830][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.14-23.40.03:882][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.14-23.40.03:932][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.14-23.40.03:997][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.14-23.40.04:051][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.14-23.40.04:102][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.14-23.40.04:160][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.14-23.40.04:209][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.14-23.40.04:254][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.14-23.40.04:302][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.14-23.40.04:352][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.14-23.40.04:399][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.14-23.40.04:451][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.14-23.40.04:507][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.14-23.40.04:603][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.14-23.40.04:603][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.14-23.40.04:660][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.14-23.40.04:698][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.14-23.40.04:786][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.14-23.40.04:811][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.14-23.40.04:867][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.14-23.40.04:920][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.14-23.40.04:972][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.14-23.40.05:031][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.14-23.40.05:031][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.14-23.40.05:487][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.14-23.40.05:558][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Company/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.14-23.40.05:558][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Company/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.14-23.40.05:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.14-23.40.05:558][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.14-23.40.05:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.14-23.40.05:558][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.14-23.40.05:572][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.14-23.40.05:585][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Company/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.14-23.40.05:594][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.14-23.40.05:594][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.14-23.40.05:595][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.14-23.40.05:595][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.14-23.40.05:939][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.14-23.40.06:265][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.14-23.40.06:304][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.14-23.40.06:304][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.14-23.40.06:304][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.14-23.40.06:304][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.14-23.40.06:304][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.14-23.40.06:335][  0]LogNetVersion: PaperNinja , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 109285166)
+[2017.12.14-23.40.06:498][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2017.12.14-23.40.06:938][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.035414 seconds
+[2017.12.14-23.40.06:943][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.14-23.40.06:943][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.14-23.40.06:943][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.14-23.40.06:998][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.14-23.40.09:698][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.14-23.40.09:738][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.14-23.40.10:412][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.14-23.40.10:830][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.14-23.40.10:830][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.14-23.40.10:886][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.14-23.40.10:944][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.14-23.40.11:761][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.14-23.40.12:039][  0]LogOcInput: OculusInput pre-init called
+[2017.12.14-23.40.12:327][  0]LogEngine: Initializing Engine...
+[2017.12.14-23.40.12:328][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.14-23.40.12:545][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.14-23.40.12:545][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.14-23.40.12:683][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.14-23.40.12:722][  0]LogInit: XAudio2 using 'LG IPS FULLHD-0(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.14-23.40.12:796][  0]LogInit: FAudioDevice initialized.
+[2017.12.14-23.40.12:879][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Company/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.14-23.40.12:890][  0]LogInit: Texture streaming: Enabled
+[2017.12.14-23.40.13:000][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.14-23.40.13:139][  0]LogInit: Transaction tracking system initialized
+[2017.12.14-23.40.13:490][  0]BlueprintLog: New page: 에디터 로드
+[2017.12.14-23.40.14:434][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.12.14-23.40.14:981][  0]LogLinker: Warning: '/Game/ThirdPersonBP/ThirdPersonOverview' 파일을 찾을 수 없습니다.
+[2017.12.14-23.40.14:981][  0]LogLinker: Warning: '/Game/ThirdPersonBP/ThirdPersonOverview' 파일을 찾을 수 없습니다.
+[2017.12.14-23.40.14:981][  0]LogUObjectGlobals: Warning: 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C' 오브젝트를 찾는 데 실패했습니다.
+[2017.12.14-23.40.15:209][  0]LogConsoleResponse: Display: 
+[2017.12.14-23.40.15:366][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.14-23.40.15:366][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.14-23.40.15:366][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.14-23.40.16:043][  0]LogFileCache: Scanning file cache for directory 'C:/Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/' took 0.01s
+[2017.12.14-23.40.16:614][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.14-23.40.16:614][  0]Cmd: MAP LOAD FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.14-23.40.16:614][  0]LightingResults: New page: 라이팅 빌드
+[2017.12.14-23.40.16:656][  0]MapCheck: New page: 맵 체크
+[2017.12.14-23.40.16:656][  0]LightingResults: New page: 라이팅 빌드
+[2017.12.14-23.40.16:937][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.12.14-23.40.16:943][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.14-23.40.16:951][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.14-23.40.17:000][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 48.126ms.
+[2017.12.14-23.40.17:000][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.386
+[2017.12.14-23.40.17:155][  0]LogCollectionManager: Loaded 0 collections in 0.001295 seconds
+[2017.12.14-23.40.17:241][  0]LogFileCache: Scanning file cache for directory 'C:/Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Collections/' took 0.01s
+[2017.12.14-23.40.17:241][  0]LogFileCache: Scanning file cache for directory 'C:/Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Developers/Company/Collections/' took 0.01s
+[2017.12.14-23.40.17:241][  0]LogFileCache: Scanning file cache for directory 'C:/Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Collections/' took 0.01s
+[2017.12.14-23.40.17:241][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.14-23.40.17:248][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2363 classes and 519 folders.
+[2017.12.14-23.40.17:321][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.14-23.40.17:354][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.14-23.40.17:399][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.14-23.40.17:458][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.14-23.40.17:463][  0]LogSlate: Took 0.003168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.12.14-23.40.17:465][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.14-23.40.17:467][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.14-23.40.17:553][  0]LogRenderer: Reallocating scene render targets to support 1212x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.14-23.40.17:710][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.14-23.40.17:710][  0]LogLoad: (Engine Initialization) Total time: 17.55 seconds
+[2017.12.14-23.40.17:710][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.14-23.40.17:710][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.14-23.40.17:710][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.14-23.40.18:069][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.14-23.40.18:106][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.14-23.40.18:396][  1]LogAssetRegistry: Asset discovery search completed in 11.9205 seconds
+[2017.12.14-23.40.18:398][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.14-23.40.18:398][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000032 seconds (updated 0 objects)
+[2017.12.14-23.41.11:389][519]Cmd: MAP LOAD FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.14-23.41.11:396][519]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.14-23.41.11:403][519]LightingResults: New page: 라이팅 빌드
+[2017.12.14-23.41.11:404][519]LoadErrors: New page: 맵 로드중: PNStage01_Top.umap
+[2017.12.14-23.41.11:405][519]MapCheck: New page: 맵 체크
+[2017.12.14-23.41.11:405][519]LightingResults: New page: 라이팅 빌드
+[2017.12.14-23.41.11:421][519]LogAIModule: Creating AISystem for world PNStage01_Top
+[2017.12.14-23.41.11:463][519]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.14-23.41.11:488][519]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.14-23.41.11:537][519]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 48.706ms.
+[2017.12.14-23.41.11:537][519]LogFileHelpers: Loading map 'PNStage01_Top' took 0.149
+[2017.12.14-23.43.07:766][455]LogStaticMesh: SM_Scroll 스태틱 메시 빌드중...
+[2017.12.14-23.43.07:788][455]LogStaticMesh: Built static mesh [0.03s] /Game/Props/Meshes/SM_Scroll.SM_Scroll
+[2017.12.14-23.43.08:398][456]LogRenderer: Reallocating scene render targets to support 1312x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.14-23.45.07:777][646]LogStaticMesh: SM_Bonfire 스태틱 메시 빌드중...
+[2017.12.14-23.45.07:812][646]LogStaticMesh: Built static mesh [0.03s] /Game/Props/Meshes/SM_Bonfire.SM_Bonfire
+[2017.12.14-23.50.07:361][477]LogStaticMesh: SM_Coin 스태틱 메시 빌드중...
+[2017.12.14-23.50.07:382][477]LogStaticMesh: Built static mesh [0.03s] /Game/Props/Meshes/SM_Coin.SM_Coin
+[2017.12.14-23.50.09:575][727]LogStaticMesh: SM_Gear 스태틱 메시 빌드중...
+[2017.12.14-23.50.09:596][727]LogStaticMesh: Built static mesh [0.03s] /Game/Props/Meshes/SM_Gear.SM_Gear
+[2017.12.14-23.51.25:346][632]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.14-23.51.34:330][691]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.009
+[2017.12.14-23.51.34:339][691]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Meshes/SM_Bonfire] ([1] browsable assets)...
+[2017.12.14-23.51.34:351][691]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Meshes/SM_Bonfire.SM_Bonfire]
+[2017.12.14-23.51.34:351][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Meshes/SM_Bonfire]
+[2017.12.14-23.51.34:368][691]LogSavePackage: Save=12.58ms
+[2017.12.14-23.51.34:369][691]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Bonfire_Auto180B345AF464E0362351B25AED4365EF6.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/Meshes/SM_Bonfire_Auto1.uasset'
+[2017.12.14-23.51.34:371][691]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/Meshes/SM_Bonfire_Auto1.uasset
+[2017.12.14-23.51.34:372][691]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Meshes/SM_Gear] ([1] browsable assets)...
+[2017.12.14-23.51.34:383][691]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Meshes/SM_Gear.SM_Gear]
+[2017.12.14-23.51.34:383][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Meshes/SM_Gear]
+[2017.12.14-23.51.34:398][691]LogSavePackage: Save=10.77ms
+[2017.12.14-23.51.34:398][691]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Gear_Auto127B563D740D11F337BE66F969404C56B.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/Meshes/SM_Gear_Auto1.uasset'
+[2017.12.14-23.51.34:400][691]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/Meshes/SM_Gear_Auto1.uasset
+[2017.12.14-23.51.34:400][691]LogFileHelpers: Auto-saving content packages took 0.069
+[2017.12.14-23.59.26:839][874]LogStaticMesh: SM_Shape_Cylinder100x10 스태틱 메시 빌드중...
+[2017.12.14-23.59.26:856][874]LogStaticMesh: Built static mesh [0.02s] /Game/Props/Meshes/SM_Shape_Cylinder100x10.SM_Shape_Cylinder100x10
+[2017.12.15-00.00.01:121][847]LogRenderer: Reallocating scene render targets to support 1432x576 Format 10 NumSamples 1 (Frame:1355).
+[2017.12.15-00.00.26:649][898]Cmd: TRANSACTION UNDO
+[2017.12.15-00.00.26:649][898]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-00.00.27:889][ 19]LogEditorViewport: Clicking Background
+[2017.12.15-00.00.34:247][775]LogEditorViewport: Clicking Background
+[2017.12.15-00.01.55:560][396]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.010
+[2017.12.15-00.01.55:562][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Meshes/SM_Coin] ([1] browsable assets)...
+[2017.12.15-00.01.55:573][396]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Meshes/SM_Coin.SM_Coin]
+[2017.12.15-00.01.55:573][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Meshes/SM_Coin]
+[2017.12.15-00.01.55:588][396]LogSavePackage: Save=10.72ms
+[2017.12.15-00.01.55:588][396]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Coin_Auto2BB4C9EE642E45AFDD0330F82F2782164.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/Meshes/SM_Coin_Auto2.uasset'
+[2017.12.15-00.01.55:598][396]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/Meshes/SM_Coin_Auto2.uasset
+[2017.12.15-00.01.55:600][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Meshes/SM_Shape_Cylinder100x10] ([1] browsable assets)...
+[2017.12.15-00.01.55:611][396]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Meshes/SM_Shape_Cylinder100x10.SM_Shape_Cylinder100x10]
+[2017.12.15-00.01.55:611][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Meshes/SM_Shape_Cylinder100x10]
+[2017.12.15-00.01.55:624][396]LogSavePackage: Save=9.64ms
+[2017.12.15-00.01.55:625][396]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Shape_Cylinder100x10_Auto2BBEF9C2D4CBC6BE4FA8D6E8D0E296448.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/Meshes/SM_Shape_Cylinder100x10_Auto2.uasset'
+[2017.12.15-00.01.55:627][396]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/Meshes/SM_Shape_Cylinder100x10_Auto2.uasset
+[2017.12.15-00.01.55:627][396]LogFileHelpers: Auto-saving content packages took 0.066
+[2017.12.15-00.09.13:254][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Meshes/SM_Bonfire" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Meshes/SM_Bonfire.uasset" SILENT=true
+[2017.12.15-00.09.13:262][338]LogSavePackage: Save=3.30ms
+[2017.12.15-00.09.13:262][338]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_BonfireBE2A156E4BF506FB984CA4BECE65D5C4.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Meshes/SM_Bonfire.uasset'
+[2017.12.15-00.09.13:266][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Meshes/SM_Bonfire.uasset
+[2017.12.15-00.09.13:269][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Meshes/SM_Coin" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Meshes/SM_Coin.uasset" SILENT=true
+[2017.12.15-00.09.13:278][338]LogSavePackage: Save=3.31ms
+[2017.12.15-00.09.13:278][338]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_CoinD97E1B8C4230E3BA861905AB0DE721D1.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Meshes/SM_Coin.uasset'
+[2017.12.15-00.09.13:283][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Meshes/SM_Coin.uasset
+[2017.12.15-00.09.13:285][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Meshes/SM_Gear" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Meshes/SM_Gear.uasset" SILENT=true
+[2017.12.15-00.09.13:293][338]LogSavePackage: Save=3.17ms
+[2017.12.15-00.09.13:293][338]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_GearFDC5D9ED47B5C217A40ECEA83A803E38.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Meshes/SM_Gear.uasset'
+[2017.12.15-00.09.13:298][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Meshes/SM_Gear.uasset
+[2017.12.15-00.09.13:307][338]LogSavePackage: Save=3.27ms
+[2017.12.15-00.09.13:307][338]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Shape_Cylinder100x10C0FC49314BD883A0A8EFACB0DFD054ED.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Meshes/SM_Shape_Cylinder100x10.uasset'
+[2017.12.15-00.09.13:312][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Meshes/SM_Shape_Cylinder100x10.uasset
+[2017.12.15-00.10.58:506][887]LogTexture: Display: 텍스처 빌드: T_Floor01_D (AutoDXT, 1024X1024)
+[2017.12.15-00.11.07:144][899]LogMaterial: Missing cached shader map for material M_Floor, compiling. 
+[2017.12.15-00.11.35:203][248]LogTexture: Display: 텍스처 빌드: T_Floor01_Side_D (AutoDXT, 512X128)
+[2017.12.15-00.11.52:771][345]LogMaterial: Missing cached shader map for material M_FloorSide, compiling. 
+[2017.12.15-00.12.00:468][239]LogTexture: Display: 텍스처 빌드: T_Wall01_M (AutoDXT, 2048X1024)
+[2017.12.15-00.12.10:354][420]LogMaterial: Missing cached shader map for material M_Wall, compiling. 
+[2017.12.15-00.12.20:129][576]LogSavePackage: Save=11.00ms
+[2017.12.15-00.12.20:129][576]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/M_Wall161A213040736C5EEA98C5B204AA22A6.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/Materials/M_Wall.uasset'
+[2017.12.15-00.12.20:133][576]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/Materials/M_Wall.uasset
+[2017.12.15-00.12.20:163][576]LogSavePackage: Save=12.19ms
+[2017.12.15-00.12.20:163][576]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/M_Floor40591F1C4B2EF0128BD69C8359164F90.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/Materials/M_Floor.uasset'
+[2017.12.15-00.12.20:167][576]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/Materials/M_Floor.uasset
+[2017.12.15-00.12.20:193][576]LogSavePackage: Save=11.29ms
+[2017.12.15-00.12.20:193][576]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/M_FloorSide0C89EC0547C775506D39F9AF9448E4FB.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/Materials/M_FloorSide.uasset'
+[2017.12.15-00.12.20:197][576]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/Materials/M_FloorSide.uasset
+[2017.12.15-00.12.20:970][644]LogSavePackage: Save=25.56ms
+[2017.12.15-00.12.20:970][644]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/PNStage01_Top062127314A0D4EBA28E011ACEAF061A7.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap'
+[2017.12.15-00.12.20:974][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap
+[2017.12.15-00.13.11:355][391]LogTexture: Display: 텍스처 빌드: T_Bonfire_D (AutoDXT, 2048X2048)
+[2017.12.15-00.13.21:418][589]LogMaterial: Missing cached shader map for material M_Bonfire, compiling. 
+[2017.12.15-00.18.43:379][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Materials/M_Bonfire" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Materials/M_Bonfire.uasset" SILENT=true
+[2017.12.15-00.18.43:391][391]LogSavePackage: Save=10.58ms
+[2017.12.15-00.18.43:391][391]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/M_Bonfire64099C0649D6EA21544F918CF6830070.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Materials/M_Bonfire.uasset'
+[2017.12.15-00.18.43:396][391]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/Materials/M_Bonfire.uasset
+[2017.12.15-00.19.28:644][794]LogStaticMesh: SM_Wall 스태틱 메시 빌드중...
+[2017.12.15-00.19.28:656][794]LogStaticMesh: Built static mesh [0.02s] /Game/Architecture/SM_Wall.SM_Wall
+[2017.12.15-00.20.40:656][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Wall" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/SM_Wall.uasset" SILENT=true
+[2017.12.15-00.20.40:672][322]LogSavePackage: Save=10.40ms
+[2017.12.15-00.20.40:672][322]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_WallE638481A46C428A5C8738F9B110946A5.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/SM_Wall.uasset'
+[2017.12.15-00.20.40:676][322]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/SM_Wall.uasset
+[2017.12.15-00.21.00:674][689]LogStaticMesh: SM_Box01 스태틱 메시 빌드중...
+[2017.12.15-00.21.00:688][689]LogStaticMesh: Built static mesh [0.01s] /Game/Props/Meshes/SM_Box01.SM_Box01
+[2017.12.15-00.21.00:697][689]LogStaticMesh: SM_GearShaft 스태틱 메시 빌드중...
+[2017.12.15-00.21.00:710][689]LogStaticMesh: Built static mesh [0.01s] /Game/Props/Meshes/SM_GearShaft.SM_GearShaft
+[2017.12.15-00.21.00:716][689]LogStaticMesh: SM_Shape_Cylinder_Base 스태틱 메시 빌드중...
+[2017.12.15-00.21.00:735][689]LogStaticMesh: Built static mesh [0.02s] /Game/Props/Meshes/SM_Shape_Cylinder_Base.SM_Shape_Cylinder_Base
+[2017.12.15-00.21.00:741][689]LogStaticMesh: SM_Shuriken 스태틱 메시 빌드중...
+[2017.12.15-00.21.00:763][689]LogStaticMesh: Built static mesh [0.02s] /Game/Props/Meshes/SM_Shuriken.SM_Shuriken
+[2017.12.15-00.21.00:769][689]LogStaticMesh: SM_Signboard 스태틱 메시 빌드중...
+[2017.12.15-00.21.00:792][689]LogStaticMesh: Built static mesh [0.02s] /Game/Props/Meshes/SM_Signboard.SM_Signboard
+[2017.12.15-00.21.02:867][931]LogStaticMesh: SM_Coin 스태틱 메시 빌드중...
+[2017.12.15-00.21.02:874][931]LogStaticMesh: Built static mesh [0.01s] /Game/Props/SM_Coin.SM_Coin
+[2017.12.15-00.21.02:887][931]LogStaticMesh: SM_Scroll 스태틱 메시 빌드중...
+[2017.12.15-00.21.02:894][931]LogStaticMesh: Built static mesh [0.01s] /Game/Props/SM_Scroll.SM_Scroll
+[2017.12.15-00.21.02:941][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Bonfire" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Bonfire.uasset" SILENT=true
+[2017.12.15-00.21.02:953][931]LogSavePackage: Save=10.16ms
+[2017.12.15-00.21.02:953][931]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_BonfireB678A5EC42792001A90BC99CDEC30C01.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Bonfire.uasset'
+[2017.12.15-00.21.02:958][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Bonfire.uasset
+[2017.12.15-00.21.02:973][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Box01" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Box01.uasset" SILENT=true
+[2017.12.15-00.21.02:984][931]LogSavePackage: Save=9.78ms
+[2017.12.15-00.21.02:984][931]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Box01BE71015B47B191676CF4C3BF9949F742.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Box01.uasset'
+[2017.12.15-00.21.02:989][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Box01.uasset
+[2017.12.15-00.21.03:001][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Gear" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Gear.uasset" SILENT=true
+[2017.12.15-00.21.03:013][931]LogSavePackage: Save=9.66ms
+[2017.12.15-00.21.03:013][931]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Gear7F11EA0A46D4EF76F0450D888479A11F.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Gear.uasset'
+[2017.12.15-00.21.03:017][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Gear.uasset
+[2017.12.15-00.21.03:031][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_GearShaft" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_GearShaft.uasset" SILENT=true
+[2017.12.15-00.21.03:043][931]LogSavePackage: Save=10.17ms
+[2017.12.15-00.21.03:043][931]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_GearShaft28A547144F38624D4F5FFB836A87E678.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_GearShaft.uasset'
+[2017.12.15-00.21.03:047][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_GearShaft.uasset
+[2017.12.15-00.21.03:072][931]LogSavePackage: Save=9.44ms
+[2017.12.15-00.21.03:072][931]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Shape_Cylinder100x100DA5DCED4272D89A7F727685B256C997.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Shape_Cylinder100x10.uasset'
+[2017.12.15-00.21.03:077][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Shape_Cylinder100x10.uasset
+[2017.12.15-00.21.03:101][931]LogSavePackage: Save=9.29ms
+[2017.12.15-00.21.03:101][931]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Shape_Cylinder_Base3E190FBC4B1CF0851FBE029B6C6E892E.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Shape_Cylinder_Base.uasset'
+[2017.12.15-00.21.03:105][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Shape_Cylinder_Base.uasset
+[2017.12.15-00.21.03:124][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Shuriken" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Shuriken.uasset" SILENT=true
+[2017.12.15-00.21.03:144][931]LogSavePackage: Save=17.04ms
+[2017.12.15-00.21.03:144][931]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Shuriken9E49AD4A452E9850E9B632BD656B343E.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Shuriken.uasset'
+[2017.12.15-00.21.03:150][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Shuriken.uasset
+[2017.12.15-00.21.03:164][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Signboard" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Signboard.uasset" SILENT=true
+[2017.12.15-00.21.03:177][931]LogSavePackage: Save=10.56ms
+[2017.12.15-00.21.03:177][931]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Signboard200B37B847CD8561C640FF8589825B02.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Signboard.uasset'
+[2017.12.15-00.21.03:182][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Signboard.uasset
+[2017.12.15-00.23.06:041][629]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.008
+[2017.12.15-00.23.06:043][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/SM_Bonfire] ([1] browsable assets)...
+[2017.12.15-00.23.06:054][629]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/SM_Bonfire.SM_Bonfire]
+[2017.12.15-00.23.06:054][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/SM_Bonfire]
+[2017.12.15-00.23.06:070][629]LogSavePackage: Save=10.81ms
+[2017.12.15-00.23.06:070][629]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Bonfire_Auto3887659B24F455227648F5DB31F04C98C.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/SM_Bonfire_Auto3.uasset'
+[2017.12.15-00.23.06:076][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/SM_Bonfire_Auto3.uasset
+[2017.12.15-00.23.06:077][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/SM_Coin] ([1] browsable assets)...
+[2017.12.15-00.23.06:088][629]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/SM_Coin.SM_Coin]
+[2017.12.15-00.23.06:088][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/SM_Coin]
+[2017.12.15-00.23.06:103][629]LogSavePackage: Save=10.56ms
+[2017.12.15-00.23.06:103][629]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Coin_Auto3C06E6B2344E0D9BDD6092191AEFC37E1.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/SM_Coin_Auto3.uasset'
+[2017.12.15-00.23.06:105][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Props/SM_Coin_Auto3.uasset
+[2017.12.15-00.23.06:105][629]LogFileHelpers: Auto-saving content packages took 0.064
+[2017.12.15-00.23.06:293][633]Cmd: POLY SELECT ALL
+[2017.12.15-00.24.22:513][176]LogStaticMesh: SM_Floor 스태틱 메시 빌드중...
+[2017.12.15-00.24.22:527][176]LogStaticMesh: Built static mesh [0.02s] /Game/Architecture/SM_Floor.SM_Floor
+[2017.12.15-00.26.53:562][256]LogEditorTransaction: Undo 스태틱 메시 에디터: 머티리얼 슬롯 추가
+[2017.12.15-00.28.48:506][484]LogEditorTransaction: Undo 스태틱 메시 에디터: 머티리얼 슬롯 추가
+[2017.12.15-00.33.06:215][652]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.009
+[2017.12.15-00.33.06:217][652]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/SM_Floor] ([1] browsable assets)...
+[2017.12.15-00.33.06:228][652]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Architecture/SM_Floor.SM_Floor]
+[2017.12.15-00.33.06:228][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/SM_Floor]
+[2017.12.15-00.33.06:245][652]LogSavePackage: Save=11.63ms
+[2017.12.15-00.33.06:245][652]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Floor_Auto44B689929447BAD76EE354895DFC43FBA.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Floor_Auto4.uasset'
+[2017.12.15-00.33.06:247][652]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Floor_Auto4.uasset
+[2017.12.15-00.33.06:247][652]LogFileHelpers: Auto-saving content packages took 0.031
+[2017.12.15-00.54.41:875][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Floor" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/SM_Floor.uasset" SILENT=true
+[2017.12.15-00.54.41:884][536]LogSavePackage: Save=3.60ms
+[2017.12.15-00.54.41:884][536]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Floor5A0AA54B49DD6EBE4C021A9F0C929C08.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/SM_Floor.uasset'
+[2017.12.15-00.54.41:889][536]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Architecture/SM_Floor.uasset
+[2017.12.15-00.54.44:061][796]LogEditorViewport: Clicking Background
+[2017.12.15-01.03.40:984][987]LogSavePackage: Save=28.80ms
+[2017.12.15-01.03.40:984][987]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/PNStage01_Top_Auto5635E16BE4AAD485139213B8DABDBE0DD.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto5.umap'
+[2017.12.15-01.03.40:986][987]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto5.umap
+[2017.12.15-01.03.40:989][987]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.049
+[2017.12.15-01.03.40:989][987]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.049
+[2017.12.15-01.04.25:481][311]LogEditorViewport: Clicking Background
+[2017.12.15-01.04.27:017][493]LogEditorViewport: Clicking Background
+[2017.12.15-01.04.27:420][540]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.12.15-01.05.57:926][372]LogEditorViewport: Clicking Background
+[2017.12.15-01.08.08:902][ 53]LogTemp: Repeating last play command: 독립형 게임
+[2017.12.15-01.08.11:747][ 53]LogSavePackage: Save=32.04ms
+[2017.12.15-01.08.11:747][ 53]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/PNStage01_TopBD87123345085C1891C30A8EB403D8AA.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap'
+[2017.12.15-01.08.11:752][ 53]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap
+[2017.12.15-01.08.11:766][ 53]LogFileHelpers: Saving map 'PNStage01_Top' took 0.117
+[2017.12.15-01.08.11:767][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Bonfire" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Bonfire.uasset" SILENT=true
+[2017.12.15-01.08.11:775][ 53]LogSavePackage: Save=3.18ms
+[2017.12.15-01.08.11:775][ 53]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_BonfireDB50EE534121CD6E73758FB982B47D8E.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Bonfire.uasset'
+[2017.12.15-01.08.11:780][ 53]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Bonfire.uasset
+[2017.12.15-01.08.11:782][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Coin" FILE="../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Coin.uasset" SILENT=true
+[2017.12.15-01.08.11:791][ 53]LogSavePackage: Save=3.39ms
+[2017.12.15-01.08.11:791][ 53]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SM_Coin67773A624A722DB0F7BAE9971F9EEEEA.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Coin.uasset'
+[2017.12.15-01.08.11:795][ 53]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Props/SM_Coin.uasset
+[2017.12.15-01.08.21:385][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.15-01.08.21:387][179]PIE: New page: PIE 세션: PNStage01_Top (2017. 12. 15. 오후 7:08:21)
+[2017.12.15-01.08.21:387][179]LogPlayLevel: Creating play world package: /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top
+[2017.12.15-01.08.21:390][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003274s)
+[2017.12.15-01.08.21:390][179]LogAIModule: Creating AISystem for world PNStage01_Top
+[2017.12.15-01.08.21:391][179]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2017.12.15-01.08.21:391][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage01/PNStage01_Top.PNStage01_Top to /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top.PNStage01_Top (0.004134s)
+[2017.12.15-01.08.21:442][179]LogInit: XAudio2 using 'LG IPS FULLHD-0(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.15-01.08.21:456][179]LogInit: FAudioDevice initialized.
+[2017.12.15-01.08.21:530][179]LogLoad: Game class is 'GameModeBase'
+[2017.12.15-01.08.21:533][179]LogWorld: Bringing World /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top.PNStage01_Top up for play (max tick rate 0) at 2017.12.15-10.08.21
+[2017.12.15-01.08.21:533][179]LogWorld: Bringing up level for play took: 0.000652
+[2017.12.15-01.08.21:605][179]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.12.15-01.08.21:610][179]PIE: /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top 에 대한 에디터에서 플레이 시작 시간: -0.45
+[2017.12.15-01.08.21:639][179]LogRenderer: Reallocating scene render targets to support 1432x756 Format 10 NumSamples 1 (Frame:1).
+[2017.12.15-01.10.34:521][981]LogTexture: Display: 텍스처 빌드: Texture2D_2 (G8, 128X128)
+[2017.12.15-01.10.48:125][565]LogGeometryMode: Warning: Unable to find SecondWallBrush Brush(s) in new BSP
+[2017.12.15-01.10.48:125][565]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.15-01.10.55:858][419]LogEditorViewport: Clicking on Actor (context menu): Brush (SecondWallBrush)
+[2017.12.15-01.11.19:636][147]LogGeometryMode: Warning: Unable to find SlopeBrush Brush(s) in new BSP
+[2017.12.15-01.11.19:636][147]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.15-01.14.14:415][781]LogEditorViewport: Clicking Background
+[2017.12.15-01.14.14:778][823]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.14:778][823]LogEditorTransaction: Undo 배경 클릭
+[2017.12.15-01.14.15:235][870]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.15:235][870]LogEditorTransaction: Undo 액터 클릭
+[2017.12.15-01.14.15:750][928]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.15:750][928]LogEditorTransaction: Undo 액터 클릭
+[2017.12.15-01.14.16:158][975]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.16:158][975]LogEditorTransaction: Undo 액터 클릭
+[2017.12.15-01.14.16:586][ 24]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.16:586][ 24]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.17:010][ 72]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.17:010][ 72]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.17:418][118]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.17:418][118]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.17:850][167]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.17:850][167]LogEditorTransaction: Undo 모디파이어 [펜]
+[2017.12.15-01.14.18:296][217]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.18:296][217]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.18:736][266]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.18:736][266]LogEditorTransaction: Undo 모디파이어 [펜]
+[2017.12.15-01.14.19:161][314]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.19:161][314]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.19:559][358]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.19:559][358]LogEditorTransaction: Undo 모디파이어 [펜]
+[2017.12.15-01.14.19:994][407]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.19:994][407]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.20:557][471]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.20:557][471]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.21:018][523]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.21:018][523]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.21:458][573]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.21:458][573]LogEditorTransaction: Undo 모디파이어 [펜]
+[2017.12.15-01.14.21:876][620]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.21:876][620]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.22:299][667]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.22:299][667]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.22:686][710]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.22:686][710]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.23:091][755]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.23:091][755]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.23:509][801]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.23:509][801]LogEditorTransaction: Undo 모디파이어 [펜]
+[2017.12.15-01.14.23:924][847]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.23:924][847]LogEditorTransaction: Undo 브러시 표면 선택
+[2017.12.15-01.14.24:482][909]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.24:482][909]LogEditorTransaction: Undo 모디파이어 [펜]
+[2017.12.15-01.14.24:937][960]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.24:937][960]LogEditorTransaction: Undo 모디파이어 [펜]
+[2017.12.15-01.14.25:344][  6]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.25:344][  6]LogEditorTransaction: Undo 모디파이어 [편집]
+[2017.12.15-01.14.25:745][ 50]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.25:745][ 50]LogEditorTransaction: Undo 모디파이어 [편집]
+[2017.12.15-01.14.26:141][ 94]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.26:141][ 94]LogEditorTransaction: Undo 액터 클릭 (맥락 메뉴)
+[2017.12.15-01.14.26:619][147]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.26:619][147]LogEditorTransaction: Undo 모디파이어 [편집]
+[2017.12.15-01.14.27:099][201]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.27:099][201]LogEditorTransaction: Undo 모디파이어 [편집]
+[2017.12.15-01.14.27:498][246]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.27:498][246]LogEditorTransaction: Undo 모디파이어 [편집]
+[2017.12.15-01.14.28:300][339]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.28:300][339]LogEditorTransaction: Undo 브러시 표면 선택
+[2017.12.15-01.14.28:888][406]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.28:888][406]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.29:360][459]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.29:360][459]LogEditorTransaction: Undo 모디파이어 [편집]
+[2017.12.15-01.14.29:822][511]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.29:822][511]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.14.30:274][561]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.30:274][561]LogEditorTransaction: Undo 모디파이어 [편집]
+[2017.12.15-01.14.30:705][609]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.30:705][609]LogEditorTransaction: Undo 브러시 표면 선택
+[2017.12.15-01.14.31:140][660]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.31:140][660]LogEditorTransaction: Undo 브러시 표면 선택
+[2017.12.15-01.14.40:269][744]LogEditorViewport: Clicking on Actor (LMB): RecastNavMesh (RecastNavMesh-Default)
+[2017.12.15-01.14.44:174][193]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.44:175][193]LogEditorTransaction: Undo 브러시 표면 선택
+[2017.12.15-01.14.45:396][307]Cmd: TRANSACTION UNDO
+[2017.12.15-01.14.45:396][307]LogEditorTransaction: Undo 액터 클릭
+[2017.12.15-01.15.28:063][208]Cmd: SELECT NONE
+[2017.12.15-01.16.53:686][313]LogGeometryMode: Warning: Unable to find SecondWallBrush Brush(s) in new BSP
+[2017.12.15-01.16.53:686][313]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.15-01.16.57:796][769]LogGeometryMode: Warning: Unable to find SlopeBrush Brush(s) in new BSP
+[2017.12.15-01.16.57:796][769]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.15-01.17.20:265][332]Cmd: SELECT NONE
+[2017.12.15-01.18.49:775][862]Cmd: SELECT NONE
+[2017.12.15-01.19.36:238][421]LogSavePackage: Save=41.93ms
+[2017.12.15-01.19.36:238][421]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/PNStage01_Top_Auto6678847DE4C9202EF8A918394495D5518.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto6.umap'
+[2017.12.15-01.19.36:241][421]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto6.umap
+[2017.12.15-01.19.36:244][421]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.063
+[2017.12.15-01.19.36:244][421]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.063
+[2017.12.15-01.20.58:100][171]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2017.12.15-01.21.08:703][422]Cmd: TRANSACTION UNDO
+[2017.12.15-01.21.08:703][422]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.21.08:707][422]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2017.12.15-01.21.08:707][422]LogGeometryMode: Warning: Unable to resolve SlopeBrush Brush in new BSP, see above
+[2017.12.15-01.21.08:707][422]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.15-01.21.20:067][727]Cmd: TRANSACTION UNDO
+[2017.12.15-01.21.20:067][727]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-01.21.20:071][727]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2017.12.15-01.21.20:071][727]LogGeometryMode: Warning: Unable to resolve SlopeBrush Brush in new BSP, see above
+[2017.12.15-01.21.20:071][727]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.15-01.21.42:010][325]LogGeometryMode: Warning: Unable to find SecondTurnnelBrush Brush(s) in new BSP
+[2017.12.15-01.21.42:010][325]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.15-01.21.42:800][415]LogEditorViewport: Clicking Background
+[2017.12.15-01.21.43:518][500]LogEditorViewport: Clicking Background
+[2017.12.15-01.21.46:974][896]Cmd: SELECT NONE
+[2017.12.15-01.22.51:568][576]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2017.12.15-01.22.51:577][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.15-01.22.51:577][576]PIE: New page: PIE 세션: PNStage01_Top (2017. 12. 15. 오후 7:22:51)
+[2017.12.15-01.22.51:577][576]LogPlayLevel: Creating play world package: /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top
+[2017.12.15-01.22.51:580][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003207s)
+[2017.12.15-01.22.51:581][576]LogAIModule: Creating AISystem for world PNStage01_Top
+[2017.12.15-01.22.51:581][576]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2017.12.15-01.22.51:581][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage01/PNStage01_Top.PNStage01_Top to /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top.PNStage01_Top (0.003966s)
+[2017.12.15-01.22.51:618][576]LogInit: XAudio2 using 'LG IPS FULLHD-0(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.15-01.22.51:630][576]LogInit: FAudioDevice initialized.
+[2017.12.15-01.22.51:685][576]LogLoad: Game class is 'GameModeBase'
+[2017.12.15-01.22.51:687][576]LogWorld: Bringing World /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top.PNStage01_Top up for play (max tick rate 0) at 2017.12.15-10.22.51
+[2017.12.15-01.22.51:687][576]LogWorld: Bringing up level for play took: 0.000674
+[2017.12.15-01.22.51:692][576]PIE: /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top 에 대한 에디터에서 플레이 시작 시간: -0.368
+[2017.12.15-01.23.18:617][793]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2017.12.15-01.26.21:721][469]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.12.15-01.26.21:722][469]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-01.26.21:722][469]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2017.12.15-01.28.11:022][477]LogSlate: Took 0.003310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.15-01.29.52:252][287]LogSavePackage: Save=49.34ms
+[2017.12.15-01.29.52:252][287]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/PNStage01_Top_Auto7B356848646A0E22594AEE7886B79C7F8.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto7.umap'
+[2017.12.15-01.29.52:254][287]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto7.umap
+[2017.12.15-01.29.52:256][287]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.070
+[2017.12.15-01.29.52:256][287]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.070
+[2017.12.15-01.31.35:364][611]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2017.12.15-01.34.31:642][691]LogSavePackage: Save=48.44ms
+[2017.12.15-01.34.31:642][691]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/PNStage01_Top2D74D38945F5C9769DE6CC98DC435ADF.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap'
+[2017.12.15-01.34.31:646][691]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap
+[2017.12.15-01.34.52:755][215]LogSavePackage: Save=5.20ms
+[2017.12.15-01.34.52:755][215]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/PNStage01_GBC3232B86446B55AF0123DBB237D21072.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_GB.umap'
+[2017.12.15-01.34.52:757][215]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_GB.umap
+[2017.12.15-01.34.52:764][215]LogFileHelpers: Saving map 'PNStage01_GB' took 0.169
+[2017.12.15-01.35.12:283][408]LogSavePackage: Save=4.91ms
+[2017.12.15-01.35.12:283][408]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/PNStage01_SMC2290AAE4024058221CD29AD5919C2DB.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_SM.umap'
+[2017.12.15-01.35.12:285][408]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_SM.umap
+[2017.12.15-01.35.12:295][408]LogFileHelpers: Saving map 'PNStage01_SM' took 0.102
+[2017.12.15-01.45.02:855][939]LogSavePackage: Save=35.16ms
+[2017.12.15-01.45.02:855][939]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/PNStage01_Top_Auto830CE615D4172542C35CA3AB41997564C.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto8.umap'
+[2017.12.15-01.45.02:858][939]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto8.umap
+[2017.12.15-01.45.02:861][939]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.056
+[2017.12.15-01.45.02:861][939]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.056
+[2017.12.15-02.02.30:178][704]LogEditorViewport: Clicking on Actor (LMB): Brush (SlopeBrush)
+[2017.12.15-02.02.32:467][968]Cmd: DELETE
+[2017.12.15-02.02.32:467][968]Cmd: ACTOR DELETE
+[2017.12.15-02.02.32:474][968]LogEditorActor: Deleted Actor: Brush
+[2017.12.15-02.02.32:485][968]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.12.15-02.02.40:428][902]LogActorFactory: Actor Factory created Cube
+[2017.12.15-02.02.40:700][933]LogActorFactory: Actor Factory created Cube
+[2017.12.15-02.02.42:279][114]Cmd: TRANSACTION UNDO
+[2017.12.15-02.02.42:279][114]LogEditorTransaction: Undo 액터 생성
+[2017.12.15-02.02.45:321][472]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.15-02.03.30:152][606]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.15-02.04.00:269][188]Cmd: TRANSACTION UNDO
+[2017.12.15-02.04.00:269][188]LogEditorTransaction: Undo 액터 클릭
+[2017.12.15-02.04.00:980][264]Cmd: TRANSACTION UNDO
+[2017.12.15-02.04.00:981][264]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-02.04.01:834][357]Cmd: TRANSACTION UNDO
+[2017.12.15-02.04.01:834][357]LogEditorTransaction: Undo 모디파이어 [편집]
+[2017.12.15-02.04.02:405][411]Cmd: TRANSACTION UNDO
+[2017.12.15-02.04.02:405][411]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-02.04.02:997][470]Cmd: TRANSACTION UNDO
+[2017.12.15-02.04.02:997][470]LogEditorTransaction: Undo 모디파이어 [편집]
+[2017.12.15-02.04.03:560][525]Cmd: TRANSACTION UNDO
+[2017.12.15-02.04.03:560][525]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-02.04.04:162][586]Cmd: TRANSACTION UNDO
+[2017.12.15-02.04.04:162][586]LogEditorTransaction: Undo 바닥에 액터 스냅
+[2017.12.15-02.04.04:744][643]Cmd: TRANSACTION UNDO
+[2017.12.15-02.04.04:744][643]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-02.04.05:260][694]Cmd: TRANSACTION UNDO
+[2017.12.15-02.04.05:260][694]LogEditorTransaction: Undo 액터 이동
+[2017.12.15-02.04.05:800][749]Cmd: TRANSACTION UNDO
+[2017.12.15-02.04.05:800][749]LogEditorTransaction: Undo 브러시 추가
+[2017.12.15-02.04.06:367][814]Cmd: TRANSACTION UNDO
+[2017.12.15-02.04.06:367][814]LogEditorTransaction: Undo 액터 삭제
+[2017.12.15-02.04.32:001][857]LogSavePackage: Save=37.12ms
+[2017.12.15-02.04.32:001][857]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/PNStage01_Top_Auto9703AFC9343C8073D19656DB1BBFA1633.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto9.umap'
+[2017.12.15-02.04.32:003][857]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Maps/Stage01/PNStage01_Top_Auto9.umap
+[2017.12.15-02.04.32:006][857]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.058
+[2017.12.15-02.04.32:006][857]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.058
+[2017.12.15-02.06.16:554][352]LogEditorActor: Deleted Actor: AtmosphericFog
+[2017.12.15-02.06.16:554][352]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.12.15-02.06.16:554][352]LogEditorActor: Actor DirectionalLight is referenced by BP_Sky_Sphere.
+[2017.12.15-02.06.34:206][352]LogEditorActor: Deleted Actor: Brush
+[2017.12.15-02.06.34:206][352]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2017.12.15-02.06.34:207][352]LogEditorActor: Deleted Actor: Brush
+[2017.12.15-02.06.34:207][352]LogEditorActor: Deleted Actor: PlayerStart
+[2017.12.15-02.06.34:207][352]LogEditorActor: Deleted Actor: Brush
+[2017.12.15-02.06.34:207][352]LogEditorActor: Deleted Actor: Brush
+[2017.12.15-02.06.34:207][352]LogEditorActor: Deleted Actor: Brush
+[2017.12.15-02.06.34:229][352]LogEditorActor: Deleted 9 Actors (17.675 secs)
+[2017.12.15-02.06.34:545][352]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.12.15-02.06.34:557][352]LogLevelTools: Error: Cannot find remapping for moved actor ID /Game/Maps/Stage01/PNStage01_GB.PNStage01_GB:PersistentLevel.DirectionalLight2, any soft references pointing to it will be broken!
+[2017.12.15-02.06.43:161][354]Cmd: TRANSACTION UNDO
+[2017.12.15-02.06.43:161][354]LogEditorTransaction: Undo 선택된 액터를 레벨로 이동합니다.
+[2017.12.15-02.06.46:494][731]LogSavePackage: Save=34.20ms
+[2017.12.15-02.06.46:494][731]LogSavePackage: Moving '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/PNStage01_TopC6CCA0174BDA8257F73FC3B9AFB271F9.tmp' to '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap'
+[2017.12.15-02.06.46:500][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap
+[2017.12.15-02.06.46:516][731]LogFileHelpers: Saving map 'PNStage01_Top' took 0.126
+[2017.12.15-02.07.29:619][848]Cmd: QUIT_EDITOR
+[2017.12.15-02.07.29:918][848]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.12.15-02.07.29:956][848]LogExit: Preparing to exit.
+[2017.12.15-02.07.30:158][848]LogDirectoryWatcher: A directory notification for 'C:/Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/' was aborted.
+[2017.12.15-02.07.30:173][848]LogExit: Editor shut down
+[2017.12.15-02.07.30:180][848]LogExit: Transaction tracking system shut down
+[2017.12.15-02.07.30:372][848]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.15-02.07.30:372][848]LogDirectoryWatcher: A directory notification for '../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/' was aborted.
+[2017.12.15-02.07.30:373][848]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.15-02.07.30:373][848]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.15-02.07.30:373][848]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.15-02.07.30:373][848]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.15-02.07.30:373][848]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.15-02.07.30:441][848]LogExit: Object subsystem successfully closed.
+[2017.12.15-02.07.30:462][848]LogD3D11RHI: Shutdown
+[2017.12.15-02.07.30:462][848]LogD3D11RHI: CleanupD3DDevice
+[2017.12.15-02.07.30:466][848]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.15-02.07.30:495][848]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (556)
+[2017.12.15-02.07.30:496][848]LogModuleManager: Shutting down and abandoning module WorldBrowser (554)
+[2017.12.15-02.07.30:496][848]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2017.12.15-02.07.30:496][848]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (550)
+[2017.12.15-02.07.30:496][848]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.12.15-02.07.30:496][848]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.15-02.07.30:496][848]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.15-02.07.30:496][848]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.15-02.07.30:498][848]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.15-02.07.30:498][848]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.15-02.07.30:498][848]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.15-02.07.30:498][848]LogDirectoryWatcher: A directory notification for 'C:/Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Collections/' was aborted.
+[2017.12.15-02.07.30:498][848]LogDirectoryWatcher: A directory notification for 'C:/Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Developers/Company/Collections/' was aborted.
+[2017.12.15-02.07.30:498][848]LogDirectoryWatcher: A directory notification for 'C:/Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Collections/' was aborted.
+[2017.12.15-02.07.30:498][848]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.15-02.07.30:498][848]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.15-02.07.30:498][848]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.15-02.07.30:499][848]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.15-02.07.30:500][848]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.15-02.07.31:362][848]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.15-02.07.31:363][848]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.15-02.07.31:363][848]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.15-02.07.31:363][848]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.15-02.07.31:363][848]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.15-02.07.31:363][848]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.15-02.07.31:363][848]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.15-02.07.31:363][848]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.15-02.07.31:424][848]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.15-02.07.31:424][848]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.15-02.07.31:424][848]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.15-02.07.31:424][848]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.15-02.07.31:424][848]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.15-02.07.31:424][848]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.15-02.07.31:424][848]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.15-02.07.31:424][848]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.15-02.07.31:424][848]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.15-02.07.31:424][848]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.12.15-02.07.31:425][848]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.12.15-02.07.31:454][848]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.12.15-02.07.31:455][848]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.12.15-02.07.31:456][848]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.12.15-02.07.31:456][848]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.12.15-02.07.31:456][848]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.12.15-02.07.31:457][848]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.15-02.07.31:457][848]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.15-02.07.31:457][848]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.15-02.07.31:457][848]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.15-02.07.31:457][848]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.15-02.07.31:457][848]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.15-02.07.31:457][848]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.15-02.07.31:457][848]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.15-02.07.31:559][848]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.15-02.07.31:659][848]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.15-02.07.31:659][848]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.15-02.07.31:659][848]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.15-02.07.31:659][848]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.15-02.07.31:659][848]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.15-02.07.31:659][848]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.15-02.07.31:660][848]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.15-02.07.31:660][848]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.15-02.07.31:660][848]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.15-02.07.31:660][848]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.15-02.07.31:660][848]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.15-02.07.31:661][848]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.15-02.07.31:661][848]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.15-02.07.31:661][848]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.15-02.07.31:661][848]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.15-02.07.31:661][848]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.15-02.07.31:667][848]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.15-02.07.31:668][848]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.15-02.07.31:672][848]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.15-02.07.31:672][848]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.15-02.07.31:672][848]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.15-02.07.31:672][848]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.15-02.07.31:672][848]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.15-02.07.31:672][848]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.15-02.07.31:672][848]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.15-02.07.31:672][848]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.15-02.07.31:674][848]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.15-02.07.31:674][848]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.15-02.07.31:674][848]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.15-02.07.31:674][848]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.15-02.07.31:674][848]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.15-02.07.31:674][848]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.15-02.07.31:674][848]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.15-02.07.31:674][848]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.15-02.07.31:675][848]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.15-02.07.31:737][848]LogDerivedDataCache: Shutdown
+[2017.12.15-02.07.31:737][848]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.15-02.07.31:737][848]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.15-02.07.31:737][848]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.15-02.07.31:737][848]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.15-02.07.31:737][848]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.15-02.07.31:738][848]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.15-02.07.31:739][848]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.15-02.07.31:740][848]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.15-02.07.31:741][848]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.15-02.07.31:741][848]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.15-02.07.31:741][848]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6567D124-4308-7F4A-235C-4EBF62FC10E6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=b14d1dca4e3f641c1fa87980689e081b%7Cef3da3658ab84f9fa9d1148bb644a2c4%7C7e1dbe60-371a-4825-b0c7-582b20044669&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.15-02.07.31:768][848]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.15-02.07.31:774][848]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.15-02.07.31:775][848]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.15-02.07.31:775][848]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.15-02.07.31:775][848]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.15-02.07.31:775][848]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.15-02.07.31:775][848]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.15-02.07.31:775][848]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.15-02.07.31:781][848]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.15-02.07.31:781][848]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.15-02.07.31:781][848]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.15-02.07.31:781][848]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.15-02.07.31:781][848]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.15-02.07.31:781][848]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.15-02.07.31:781][848]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.15-02.07.31:781][848]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.15-02.07.31:781][848]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.15-02.07.31:781][848]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.15-02.07.31:781][848]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.15-02.07.31:791][848]LogExit: Exiting.
+[2017.12.15-02.07.31:808][848]Log file closed, 12/15/17 11:07:31
