@@ -1,4 +1,4 @@
-﻿Log file open, 12/15/17 10:08:12
+﻿Log file open, 12/18/17 00:11:40
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,13 +7,13 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: PaperNinja
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(1953694449) SRandInit(1953694449).
+LogInit: Display: RandInit(-1630977799) SRandInit(-1630977799).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.178415
+LogStats: Stats thread started at 0.219587
 LogD3D11RHI: Aftermath initialized
 LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
@@ -191,91 +191,23 @@ LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.18
-LogInit: Command line:  /Game/Maps/Stage01/PNStage01_Top -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
-LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Command line:  /Game/Maps/Stage01/Test_Player_Movement -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -featureleveles2 -faketouches -windowed 
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.12.15-01.08.14:196][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.15-01.08.14:196][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.12.15-01.08.14:200][  0]LogInit: Computer: DESKTOP-M4SNJ2V
-[2017.12.15-01.08.14:200][  0]LogInit: User: Company
-[2017.12.15-01.08.14:200][  0]LogInit: CPU Page size=4096, Cores=4
-[2017.12.15-01.08.14:200][  0]LogInit: High frequency timer resolution =3.328126 MHz
-[2017.12.15-01.08.14:200][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
-[2017.12.15-01.08.14:200][  0]LogMemory: Platform Memory Stats for Windows
-[2017.12.15-01.08.14:200][  0]LogMemory: Process Physical Memory: 272.86 MB used, 272.86 MB peak
-[2017.12.15-01.08.14:200][  0]LogMemory: Process Virtual Memory: 271.88 MB used, 271.88 MB peak
-[2017.12.15-01.08.14:200][  0]LogMemory: Physical Memory: 7070.88 MB used,  9264.74 MB free, 16335.61 MB total
-[2017.12.15-01.08.14:200][  0]LogMemory: Virtual Memory: 645.99 MB used,  9264.74 MB free, 134217728.00 MB total
-[2017.12.15-01.08.14:392][  0]LogInit: Using OS detected language (ko-KR).
-[2017.12.15-01.08.14:392][  0]LogInit: Using OS detected locale (ko-KR).
-[2017.12.15-01.08.14:395][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
-[2017.12.15-01.08.14:637][  0]LogD3D11RHI: D3D11 adapters:
-[2017.12.15-01.08.14:694][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
-[2017.12.15-01.08.14:694][  0]LogD3D11RHI:       1987/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2017.12.15-01.08.14:695][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.12.15-01.08.14:695][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.12.15-01.08.14:695][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.12.15-01.08.14:702][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.12.15-01.08.14:702][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
-[2017.12.15-01.08.14:702][  0]LogWindows: EnumDisplayDevices:
-[2017.12.15-01.08.14:702][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
-[2017.12.15-01.08.14:703][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
-[2017.12.15-01.08.14:703][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
-[2017.12.15-01.08.14:704][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
-[2017.12.15-01.08.14:704][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2017.12.15-01.08.14:704][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
-[2017.12.15-01.08.14:704][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
-[2017.12.15-01.08.14:704][  0]LogD3D11RHI:      Driver Date: 10-27-2017
-[2017.12.15-01.08.14:704][  0]LogRHI: Texture pool is 1391 MB (70% of 1987 MB)
-[2017.12.15-01.08.14:734][  0]LogD3D11RHI: Async texture creation enabled
-[2017.12.15-01.08.14:750][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2017.12.15-01.08.14:848][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Intermediate/Shaders/WorkingDirectory/19084/).
-[2017.12.15-01.08.14:849][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Company/AppData/Local/Temp/UnrealShaderWorkingDir/0BA0CEC0466AB33B6D286988C679C906/'.
-[2017.12.15-01.08.14:849][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2017.12.15-01.08.15:819][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2017.12.15-01.08.15:879][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.12.15-01.08.15:942][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2017.12.15-01.08.16:006][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2017.12.15-01.08.16:006][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2017.12.15-01.08.16:540][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2017.12.15-01.08.16:614][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Company/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.15-01.08.16:614][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Company/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2017.12.15-01.08.16:615][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.12.15-01.08.16:615][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.12.15-01.08.16:615][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.12.15-01.08.16:615][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.12.15-01.08.16:635][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.12.15-01.08.16:647][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Company/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.12.15-01.08.16:656][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2017.12.15-01.08.16:662][  0]LogSlate: Using Freetype 2.6.0
-[2017.12.15-01.08.16:662][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.15-01.08.16:662][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.15-01.08.16:948][  0]LogAssetRegistry: FAssetRegistry took 0.0040 seconds to start up
-[2017.12.15-01.08.16:965][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.017434 seconds
-[2017.12.15-01.08.17:064][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.15-01.08.17:422][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.12.15-01.08.17:467][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.12.15-01.08.17:467][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.12.15-01.08.17:467][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2017.12.15-01.08.17:467][  0]LogMeshReduction: No automatic mesh merging module available
-[2017.12.15-01.08.17:467][  0]LogMeshMerging: No automatic mesh merging module available
-[2017.12.15-01.08.17:496][  0]LogNetVersion: PaperNinja , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 109285166)
-[2017.12.15-01.08.17:682][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
-[2017.12.15-01.08.17:682][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
-[2017.12.15-01.08.17:683][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
-[2017.12.15-01.08.17:990][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.12.15-01.08.19:489][  0]LogMoviePlayer: Initializing movie player
-[2017.12.15-01.08.19:837][  0]LogCollectionManager: Loaded 0 collections in 0.001203 seconds
-[2017.12.15-01.08.19:892][  0]LogFileCache: Scanning file cache for directory 'C:/Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Collections/' took 0.01s
-[2017.12.15-01.08.19:892][  0]LogFileCache: Scanning file cache for directory 'C:/Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Developers/Company/Collections/' took 0.01s
-[2017.12.15-01.08.19:892][  0]LogFileCache: Scanning file cache for directory 'C:/Study/Git/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Collections/' took 0.01s
-[2017.12.15-01.08.19:892][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2017.12.15-01.08.19:892][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
-[2017.12.15-01.08.20:113][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.12.15-01.08.20:155][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.12.15-01.08.20:693][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
-[2017.12.15-01.08.20:698][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
-[2017.12.15-01.08.20:698][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
-[2017.12.15-01.08.20:755][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.17-15.11.41:707][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.17-15.11.41:707][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.17-15.11.41:712][  0]LogInit: Computer: DESKTOP-AG2L671
+[2017.12.17-15.11.41:712][  0]LogInit: User: neigh
+[2017.12.17-15.11.41:712][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.17-15.11.41:712][  0]LogInit: High frequency timer resolution =2.250003 MHz
+[2017.12.17-15.11.41:712][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.17-15.11.41:712][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.17-15.11.41:712][  0]LogMemory: Process Physical Memory: 272.73 MB used, 272.73 MB peak
+[2017.12.17-15.11.41:712][  0]LogMemory: Process Virtual Memory: 271.52 MB used, 271.52 MB peak
+[2017.12.17-15.11.41:712][  0]LogMemory: Physical Memory: 4193.27 MB used,  3919.62 MB free, 8112.89 MB total
+[2017.12.17-15.11.41:712][  0]LogMemory: Virtual Memory: 645.12 MB used,  3919.62 MB free, 134217728.00 MB total
+[2017.12.17-15.11.41:874][  0]LogInit: Using OS detected language (ko-KR).
+[2017.12.17-15.11.41:874][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.12.17-15.11.41:878][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
