@@ -1,0 +1,770 @@
+﻿Log file open, 12/18/17 10:23:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PaperNinja
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-661520667) SRandInit(-661520667).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.268763
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.18-01.23.30:534][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.18-01.23.30:534][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.18-01.23.30:635][  0]LogInit: Computer: DESKTOP-AG2L671
+[2017.12.18-01.23.30:635][  0]LogInit: User: neigh
+[2017.12.18-01.23.30:635][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.18-01.23.30:635][  0]LogInit: High frequency timer resolution =2.250003 MHz
+[2017.12.18-01.23.30:641][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.18-01.23.30:641][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.18-01.23.30:641][  0]LogMemory: Process Physical Memory: 273.44 MB used, 273.44 MB peak
+[2017.12.18-01.23.30:641][  0]LogMemory: Process Virtual Memory: 269.48 MB used, 269.48 MB peak
+[2017.12.18-01.23.30:641][  0]LogMemory: Physical Memory: 3254.82 MB used,  4858.07 MB free, 8112.89 MB total
+[2017.12.18-01.23.30:641][  0]LogMemory: Virtual Memory: 647.87 MB used,  4858.07 MB free, 134217728.00 MB total
+[2017.12.18-01.23.31:948][  0]LogInit: Using OS detected language (ko-KR).
+[2017.12.18-01.23.31:948][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.12.18-01.23.32:133][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.12.18-01.23.32:871][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.18-01.23.34:995][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.18-01.23.35:522][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2017.12.18-01.23.35:522][  0]LogD3D11RHI:       2017/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.18-01.23.35:579][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.12.18-01.23.35:580][  0]LogD3D11RHI:       128/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.18-01.23.35:583][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.18-01.23.35:584][  0]LogD3D11RHI:       0/0/4056 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.18-01.23.35:584][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.18-01.23.35:599][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.18-01.23.35:600][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2017.12.18-01.23.35:600][  0]LogWindows: EnumDisplayDevices:
+[2017.12.18-01.23.35:600][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2017.12.18-01.23.35:611][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.18-01.23.35:611][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.12.18-01.23.35:612][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960M' (P:0 D:0)
+[2017.12.18-01.23.35:612][  0]LogWindows:    4. 'NVIDIA GeForce GTX 960M' (P:0 D:0)
+[2017.12.18-01.23.35:613][  0]LogWindows:    5. 'NVIDIA GeForce GTX 960M' (P:0 D:0)
+[2017.12.18-01.23.35:613][  0]LogWindows:    6. 'NVIDIA GeForce GTX 960M' (P:0 D:0)
+[2017.12.18-01.23.35:613][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.12.18-01.23.35:613][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2017.12.18-01.23.35:614][  0]LogD3D11RHI:   Driver Version: 388.59 (internal:23.21.13.8859, unified:388.59)
+[2017.12.18-01.23.35:614][  0]LogD3D11RHI:      Driver Date: 12-5-2017
+[2017.12.18-01.23.35:614][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2017.12.18-01.23.35:696][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.18-01.23.36:178][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.18-01.23.36:311][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Intermediate/Shaders/WorkingDirectory/6488/).
+[2017.12.18-01.23.36:311][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/neigh/AppData/Local/Temp/UnrealShaderWorkingDir/335B59C140E06A924D90138094C45556/'.
+[2017.12.18-01.23.36:331][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.18-01.23.40:520][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.18-01.23.40:604][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.18-01.23.40:706][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.18-01.23.40:805][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.18-01.23.40:936][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.18-01.23.41:024][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.18-01.23.41:119][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.18-01.23.41:215][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.18-01.23.41:293][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.18-01.23.41:421][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.18-01.23.41:536][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.18-01.23.41:643][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.18-01.23.41:724][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.18-01.23.41:834][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.18-01.23.42:034][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.18-01.23.42:034][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.18-01.23.42:138][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.18-01.23.42:210][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.18-01.23.42:421][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.18-01.23.42:501][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.18-01.23.42:603][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.18-01.23.42:706][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.18-01.23.42:819][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.18-01.23.42:923][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.18-01.23.42:923][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.18-01.23.44:468][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.18-01.23.45:035][  0]LogDerivedDataCache: Loaded boot cache 0.57s 78MB C:/Users/neigh/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.18-01.23.45:035][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/neigh/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.18-01.23.45:035][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.18-01.23.45:035][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.18-01.23.45:035][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.18-01.23.45:035][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.18-01.23.45:150][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.18-01.23.45:165][  0]LogDerivedDataCache: Using Local data cache path C:/Users/neigh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.18-01.23.45:269][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.18-01.23.45:338][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.18-01.23.45:408][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.18-01.23.45:414][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.18-01.23.53:541][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.18-01.23.55:939][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.18-01.23.56:072][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.18-01.23.56:090][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.18-01.23.56:090][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.18-01.23.56:090][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.18-01.23.56:090][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.18-01.23.56:725][  0]LogNetVersion: PaperNinja , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 109285166)
+[2017.12.18-01.23.58:664][  0]LogAssetRegistry: FAssetRegistry took 0.0363 seconds to start up
+[2017.12.18-01.24.06:366][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.302970 seconds
+[2017.12.18-01.24.06:390][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.18-01.24.06:390][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.18-01.24.06:390][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.18-01.24.06:538][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.18-01.24.28:422][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.18-01.24.28:493][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.18-01.24.30:604][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.18-01.24.31:670][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.18-01.24.31:677][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.18-01.24.31:898][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.18-01.24.32:047][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.18-01.24.34:255][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.18-01.24.34:777][  0]LogOcInput: OculusInput pre-init called
+[2017.12.18-01.24.35:780][  0]LogEngine: Initializing Engine...
+[2017.12.18-01.24.35:848][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.18-01.24.36:383][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.18-01.24.36:384][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.18-01.24.36:928][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.18-01.24.37:136][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.18-01.24.37:225][  0]LogInit: FAudioDevice initialized.
+[2017.12.18-01.24.37:365][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/neigh/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.18-01.24.37:387][  0]LogInit: Texture streaming: Enabled
+[2017.12.18-01.24.37:644][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.18-01.24.38:383][  0]LogInit: Transaction tracking system initialized
+[2017.12.18-01.24.42:279][  0]BlueprintLog: New page: 에디터 로드
+[2017.12.18-01.24.47:774][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.12.18-01.24.51:575][  0]LogConsoleResponse: Display: 
+[2017.12.18-01.24.53:494][  0]LogFileCache: Scanning file cache for directory 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/' took 0.02s
+[2017.12.18-01.24.53:494][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.18-01.24.53:494][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.18-01.24.53:526][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.18-01.24.59:735][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.12.18-01.24.59:782][  0]Cmd: MAP LOAD FILE="C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.18-01.24.59:794][  0]LightingResults: New page: 라이팅 빌드
+[2017.12.18-01.25.00:074][  0]MapCheck: New page: 맵 체크
+[2017.12.18-01.25.00:074][  0]LightingResults: New page: 라이팅 빌드
+[2017.12.18-01.25.02:407][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.12.18-01.25.03:013][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.18-01.25.03:132][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.18-01.25.03:264][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 131.269ms.
+[2017.12.18-01.25.03:264][  0]LogFileHelpers: Loading map 'Minimal_Default' took 3.491
+[2017.12.18-01.25.05:767][  0]LogCollectionManager: Loaded 0 collections in 0.003085 seconds
+[2017.12.18-01.25.06:107][  0]LogFileCache: Scanning file cache for directory 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Collections/' took 0.01s
+[2017.12.18-01.25.06:107][  0]LogFileCache: Scanning file cache for directory 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Developers/neigh/Collections/' took 0.01s
+[2017.12.18-01.25.06:107][  0]LogFileCache: Scanning file cache for directory 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Collections/' took 0.01s
+[2017.12.18-01.25.06:107][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.18-01.25.06:158][  0]LogContentBrowser: Native class hierarchy populated in 0.0295 seconds. Added 2363 classes and 519 folders.
+[2017.12.18-01.25.06:345][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.12.18-01.25.07:423][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.12.18-01.25.07:614][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.12.18-01.25.07:965][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2017.12.18-01.25.10:496][  0]LogSlate: Took 0.016329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.18-01.25.10:561][  0]LogSlate: Took 0.049533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.12.18-01.25.10:594][  0]LogSlate: Took 0.018401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.18-01.25.10:676][  0]LogSlate: Took 0.012580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.18-01.25.11:228][  0]LogRenderer: Reallocating scene render targets to support 804x340 Format 10 NumSamples 1 (Frame:1).
+[2017.12.18-01.25.12:332][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.12.18-01.25.12:332][  0]LogLoad: (Engine Initialization) Total time: 115.05 seconds
+[2017.12.18-01.25.12:332][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.18-01.25.12:333][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.18-01.25.12:333][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.18-01.25.12:495][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.18-01.25.13:220][  5]LogAssetRegistry: Asset discovery search completed in 74.5782 seconds
+[2017.12.18-01.25.13:225][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.12.18-01.25.13:225][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000237 seconds (updated 0 objects)
+[2017.12.18-01.25.13:494][ 11]LogSlate: Took 0.031939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.18-01.25.16:734][104]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.18-01.36.58:837][327]LogTexture: Display: 텍스처 빌드: T_Ninja_D (AutoDXT, 1024X1024)
+[2017.12.18-01.36.58:837][327]LogMaterial: Missing cached shader map for material M_Ninja, compiling. 
+[2017.12.18-01.37.13:136][466]LogRenderer: Reallocating scene render targets to support 804x344 Format 10 NumSamples 1 (Frame:7999).
+[2017.12.18-01.37.34:490][749]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0008 seconds. Added 7 classes and 3 folders.
+[2017.12.18-01.43.51:434][749]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.18-01.43.53:206][749]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.18-01.43.54:314][749]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-01.43.56:279][749]LogSlate: Took 0.022020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.18-01.43.56:514][749]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2017.12.18-01.43.56:565][750]LogRenderer: Reallocating scene render targets to support 804x512 Format 10 NumSamples 1 (Frame:1).
+[2017.12.18-01.43.58:839][785]LogRenderer: Reallocating scene render targets to support 804x520 Format 10 NumSamples 1 (Frame:46).
+[2017.12.18-01.43.59:026][787]LogRenderer: Reallocating scene render targets to support 908x640 Format 10 NumSamples 1 (Frame:48).
+[2017.12.18-01.43.59:757][799]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.074
+[2017.12.18-01.43.59:782][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/SK_Ninja_Physics] ([1] browsable assets)...
+[2017.12.18-01.43.59:825][799]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/SK_Ninja_Physics.SK_Ninja_Physics]
+[2017.12.18-01.43.59:825][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/SK_Ninja_Physics]
+[2017.12.18-01.43.59:917][799]LogSavePackage: Save=85.36ms
+[2017.12.18-01.43.59:917][799]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_Physics_Auto13F46559B4E6A34405E01A6A16622E732.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto1.uasset'
+[2017.12.18-01.43.59:920][799]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto1.uasset
+[2017.12.18-01.43.59:920][799]LogFileHelpers: Auto-saving content packages took 0.161
+[2017.12.18-01.44.26:404][298]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_1.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2017.12.18-01.46.33:809][198]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_2.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.18-01.47.29:984][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-01.47.30:720][410]LogSlate: Took 0.008456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.18-01.47.33:950][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/SK_Ninja_Physics" FILE="C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja_Physics.uasset" SILENT=true
+[2017.12.18-01.47.34:019][462]LogSavePackage: Save=64.03ms
+[2017.12.18-01.47.34:019][462]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_Physics970AEBB946DD1318CF922A874F8FEAF1.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja_Physics.uasset'
+[2017.12.18-01.47.34:030][462]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja_Physics.uasset
+[2017.12.18-01.49.09:045][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/SK_Ninja" FILE="C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja.uasset" SILENT=true
+[2017.12.18-01.49.09:109][794]LogSavePackage: Save=40.28ms
+[2017.12.18-01.49.09:109][794]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja90E38382464E5B4461A7308B30BAFF44.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja.uasset'
+[2017.12.18-01.49.09:116][794]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja.uasset
+[2017.12.18-01.51.25:410][248]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-01.51.25:449][248]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.12.18-01.52.27:315][963]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2017.12.18-01.52.27:515][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.12.18-01.52.27:793][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.18-01.52.27:828][963]PIE: New page: PIE 세션: Minimal_Default (2017. 12. 18. 오후 7:52:27)
+[2017.12.18-01.52.27:829][963]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.12.18-01.52.27:879][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050186s)
+[2017.12.18-01.52.27:880][963]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.12.18-01.52.27:881][963]LogPlayLevel: PIE: World Init took: (0.001933s)
+[2017.12.18-01.52.27:882][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.052953s)
+[2017.12.18-01.52.27:928][963]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.18-01.52.27:971][963]LogInit: FAudioDevice initialized.
+[2017.12.18-01.52.28:345][963]LogLoad: Game class is 'PNGameMode_C'
+[2017.12.18-01.52.28:355][963]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2017.12.18-10.52.28
+[2017.12.18-01.52.28:356][963]LogWorld: Bringing up level for play took: 0.002061
+[2017.12.18-01.52.28:460][963]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.12.18-01.52.28:545][963]PIE: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 에 대한 에디터에서 플레이 시작 시간: 1.511
+[2017.12.18-01.52.28:546][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.12.18-01.52.28:712][963]LogRenderer: Reallocating scene render targets to support 1024x640 Format 10 NumSamples 1 (Frame:1).
+[2017.12.18-01.52.33:915][ 39]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.12.18-01.52.34:306][ 39]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.12.18-02.00.13:270][910]Cmd: TRANSACTION UNDO
+[2017.12.18-02.00.13:270][910]LogEditorTransaction: Undo Physics Asset 편집
+[2017.12.18-02.00.14:302][910]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.00.14:372][910]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.00.14:414][910]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.03.44:541][610]Cmd: TRANSACTION UNDO
+[2017.12.18-02.03.44:541][610]LogEditorTransaction: Undo 아래 바디 삭제
+[2017.12.18-02.03.45:262][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.03.45:322][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.03.45:324][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.03.45:360][610]Cmd: TRANSACTION UNDO
+[2017.12.18-02.03.45:360][610]LogEditorTransaction: Undo Auto Orient to Bone 편집
+[2017.12.18-02.03.46:045][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.03.46:115][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.03.46:117][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.03.46:140][610]Cmd: TRANSACTION UNDO
+[2017.12.18-02.03.46:140][610]LogEditorTransaction: Undo Vertex Weighting Type 편집
+[2017.12.18-02.03.46:806][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.03.46:876][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.03.46:878][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.03.47:005][610]Cmd: TRANSACTION UNDO
+[2017.12.18-02.03.47:005][610]LogEditorTransaction: Undo Primitive Type 편집
+[2017.12.18-02.03.47:698][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.03.47:711][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.03.47:713][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.03.47:737][610]Cmd: TRANSACTION UNDO
+[2017.12.18-02.03.47:737][610]LogEditorTransaction: Undo Min Bone Size 편집
+[2017.12.18-02.03.48:400][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.03.48:417][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.03.48:419][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.03.48:463][610]Cmd: TRANSACTION UNDO
+[2017.12.18-02.03.48:463][610]LogEditorTransaction: Undo Auto Orient to Bone 편집
+[2017.12.18-02.03.49:186][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.03.49:199][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.03.49:200][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.04.44:583][926]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.022
+[2017.12.18-02.04.44:618][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/SK_Ninja_Physics] ([1] browsable assets)...
+[2017.12.18-02.04.44:780][926]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/SK_Ninja_Physics.SK_Ninja_Physics]
+[2017.12.18-02.04.44:780][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/SK_Ninja_Physics]
+[2017.12.18-02.04.44:876][926]LogSavePackage: Save=54.80ms
+[2017.12.18-02.04.44:876][926]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_Physics_Auto22DA3F7D749DCDEBD2AEAF1A131DE66D6.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto2.uasset'
+[2017.12.18-02.04.44:882][926]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto2.uasset
+[2017.12.18-02.04.44:882][926]LogFileHelpers: Auto-saving content packages took 0.267
+[2017.12.18-02.14.45:124][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.036
+[2017.12.18-02.14.45:143][ 31]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/SK_Ninja_Physics] ([1] browsable assets)...
+[2017.12.18-02.14.45:143][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/SK_Ninja_Physics]
+[2017.12.18-02.14.45:184][ 31]LogSavePackage: Save=16.45ms
+[2017.12.18-02.14.45:184][ 31]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_Physics_Auto3F3E6E775447F1AC82DE073B26FB6AB0A.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto3.uasset'
+[2017.12.18-02.14.45:188][ 31]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto3.uasset
+[2017.12.18-02.14.45:188][ 31]LogFileHelpers: Auto-saving content packages took 0.046
+[2017.12.18-02.25.13:287][ 27]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.034
+[2017.12.18-02.25.13:308][ 27]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/SK_Ninja_Physics] ([1] browsable assets)...
+[2017.12.18-02.25.13:308][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/SK_Ninja_Physics]
+[2017.12.18-02.25.13:349][ 27]LogSavePackage: Save=16.41ms
+[2017.12.18-02.25.13:349][ 27]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_Physics_Auto427960EA249D93A5B4479239C21E8B6F0.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto4.uasset'
+[2017.12.18-02.25.13:353][ 27]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto4.uasset
+[2017.12.18-02.25.13:353][ 27]LogFileHelpers: Auto-saving content packages took 0.047
+[2017.12.18-02.31.32:711][715]Cmd: TRANSACTION UNDO
+[2017.12.18-02.31.32:711][715]LogEditorTransaction: Undo Z 편집
+[2017.12.18-02.31.33:325][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.31.33:390][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.31.33:391][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.33.54:200][ 69]Cmd: TRANSACTION UNDO
+[2017.12.18-02.33.54:200][ 69]LogEditorTransaction: Undo Y 편집
+[2017.12.18-02.33.54:892][ 69]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.33.54:965][ 69]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.33.54:967][ 69]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.35.27:896][350]Cmd: TRANSACTION UNDO
+[2017.12.18-02.35.27:896][350]LogEditorTransaction: Undo Z 편집
+[2017.12.18-02.35.28:650][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.35.28:719][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.35.28:720][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.36.39:756][653]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.032
+[2017.12.18-02.36.39:762][653]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/SK_Ninja_Physics] ([1] browsable assets)...
+[2017.12.18-02.36.39:762][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/SK_Ninja_Physics]
+[2017.12.18-02.36.39:825][653]LogSavePackage: Save=26.21ms
+[2017.12.18-02.36.39:825][653]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_Physics_Auto5EB243DD649840A7C0DFF858493478076.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto5.uasset'
+[2017.12.18-02.36.39:830][653]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto5.uasset
+[2017.12.18-02.36.39:831][653]LogFileHelpers: Auto-saving content packages took 0.071
+[2017.12.18-02.37.46:828][982]Cmd: TRANSACTION UNDO
+[2017.12.18-02.37.46:828][982]LogEditorTransaction: Undo Z 편집
+[2017.12.18-02.37.47:509][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.37.47:576][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.37.47:578][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.37.47:801][984]Cmd: TRANSACTION UNDO
+[2017.12.18-02.37.47:801][984]LogEditorTransaction: Undo 엘리먼트 이동
+[2017.12.18-02.37.48:523][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.37.48:535][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.37.48:537][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.37.48:569][984]Cmd: TRANSACTION UNDO
+[2017.12.18-02.37.48:569][984]LogEditorTransaction: Undo Z 편집
+[2017.12.18-02.37.49:231][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.37.49:243][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.37.49:244][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.37.49:274][984]Cmd: TRANSACTION UNDO
+[2017.12.18-02.37.49:274][984]LogEditorTransaction: Undo X 편집
+[2017.12.18-02.37.49:950][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.37.49:962][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.37.49:963][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.37.49:990][984]Cmd: TRANSACTION UNDO
+[2017.12.18-02.37.49:990][984]LogEditorTransaction: Undo X Extent 편집
+[2017.12.18-02.37.50:707][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.37.50:718][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.37.50:720][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.37.50:805][984]Cmd: TRANSACTION UNDO
+[2017.12.18-02.37.50:805][984]LogEditorTransaction: Undo 엘리먼트 이동
+[2017.12.18-02.37.51:585][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.37.51:597][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.37.51:598][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.37.51:625][984]Cmd: TRANSACTION UNDO
+[2017.12.18-02.37.51:625][984]LogEditorTransaction: Undo 엘리먼트 이동
+[2017.12.18-02.37.52:415][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.37.52:427][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.37.52:428][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.37.52:455][984]Cmd: TRANSACTION UNDO
+[2017.12.18-02.37.52:455][984]LogEditorTransaction: Undo 엘리먼트 이동
+[2017.12.18-02.37.53:177][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.37.53:188][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.37.53:190][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.37.53:868][  3]Cmd: TRANSACTION UNDO
+[2017.12.18-02.37.53:868][  3]LogEditorTransaction: Undo 엘리먼트 이동
+[2017.12.18-02.37.54:582][  3]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.37.54:596][  3]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.37.54:597][  3]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.45.51:597][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/SK_Ninja_Physics" FILE="C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja_Physics.uasset" SILENT=true
+[2017.12.18-02.45.51:672][709]LogSavePackage: Save=36.27ms
+[2017.12.18-02.45.51:672][709]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_Physics80D4434E42AD8E56806107844D236C3C.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja_Physics.uasset'
+[2017.12.18-02.45.51:684][709]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja_Physics.uasset
+[2017.12.18-02.46.05:586][  8]Cmd: TRANSACTION UNDO
+[2017.12.18-02.46.05:586][  8]LogEditorTransaction: Undo Y Extent 편집
+[2017.12.18-02.46.06:335][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.46.06:421][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.46.06:422][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.46.06:903][ 13]Cmd: TRANSACTION UNDO
+[2017.12.18-02.46.06:903][ 13]LogEditorTransaction: Undo 엘리먼트 이동
+[2017.12.18-02.46.07:605][ 13]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-02.46.07:689][ 13]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-02.46.07:691][ 13]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-02.51.28:137][ 61]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.021
+[2017.12.18-02.51.28:161][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/SK_Ninja_Physics] ([1] browsable assets)...
+[2017.12.18-02.51.28:161][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/SK_Ninja_Physics]
+[2017.12.18-02.51.28:197][ 61]LogSavePackage: Save=16.62ms
+[2017.12.18-02.51.28:197][ 61]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_Physics_Auto645F44D6442DFCDAB8DFD9A9C89EBD5EB.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto6.uasset'
+[2017.12.18-02.51.28:202][ 61]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto6.uasset
+[2017.12.18-02.51.28:202][ 61]LogFileHelpers: Auto-saving content packages took 0.043
+[2017.12.18-03.01.29:047][599]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.033
+[2017.12.18-03.01.29:054][599]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/SK_Ninja_Physics] ([1] browsable assets)...
+[2017.12.18-03.01.29:054][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/SK_Ninja_Physics]
+[2017.12.18-03.01.29:118][599]LogSavePackage: Save=26.16ms
+[2017.12.18-03.01.29:118][599]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_Physics_Auto77EE6791E4B9D7D741A2C41A1F07B898C.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto7.uasset'
+[2017.12.18-03.01.29:125][599]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto7.uasset
+[2017.12.18-03.01.29:125][599]LogFileHelpers: Auto-saving content packages took 0.074
+[2017.12.18-12.37.33:055][149]LogHttp: Warning: 000002A725026980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.12.18-12.37.33:055][149]LogHttp: Warning: 000002A725026980: libcurl info message cache 0 (Connection 35 seems to be dead!)
+[2017.12.18-12.37.33:055][149]LogHttp: Warning: 000002A725026980: libcurl info message cache 1 (Closing connection 35)
+[2017.12.18-12.37.33:055][149]LogHttp: Warning: 000002A725026980: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.12.18-12.37.33:055][149]LogHttp: Warning: 000002A725026980: libcurl info message cache 3 (Closing connection 36)
+[2017.12.18-12.37.41:003][153]LogRenderer: Reallocating scene render targets to support 1024x680 Format 10 NumSamples 1 (Frame:114374).
+[2017.12.18-12.37.41:090][153]LogRenderer: Reallocating scene render targets to support 1024x848 Format 10 NumSamples 1 (Frame:114375).
+[2017.12.18-12.37.41:155][154]LogRenderer: Reallocating scene render targets to support 1024x928 Format 10 NumSamples 1 (Frame:114376).
+[2017.12.18-13.11.51:514][118]Cmd: TRANSACTION UNDO
+[2017.12.18-13.11.51:514][118]LogEditorTransaction: Undo 컨스트레인트 이동
+[2017.12.18-13.11.51:946][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.11.52:021][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.11.52:023][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.11.52:618][122]Cmd: TRANSACTION UNDO
+[2017.12.18-13.11.52:618][122]LogEditorTransaction: Undo Twist Limit 편집
+[2017.12.18-13.11.52:983][122]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.11.53:052][122]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.11.53:053][122]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.11.55:035][187]Cmd: TRANSACTION REDO
+[2017.12.18-13.11.55:035][187]LogEditorTransaction: Redo Twist Limit 편집
+[2017.12.18-13.11.55:444][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.11.55:512][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.11.55:513][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.12.29:037][969]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.019
+[2017.12.18-13.12.29:045][969]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/SK_Ninja_Physics] ([1] browsable assets)...
+[2017.12.18-13.12.29:045][969]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/SK_Ninja_Physics]
+[2017.12.18-13.12.29:077][969]LogSavePackage: Save=9.63ms
+[2017.12.18-13.12.29:077][969]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_Physics_Auto8F213BBD54AE886829A2B13AF6D6F2C2D.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto8.uasset'
+[2017.12.18-13.12.29:079][969]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto8.uasset
+[2017.12.18-13.12.29:079][969]LogFileHelpers: Auto-saving content packages took 0.038
+[2017.12.18-13.13.05:947][994]Cmd: TRANSACTION UNDO
+[2017.12.18-13.13.05:947][994]LogEditorTransaction: Undo Twist Limit 편집
+[2017.12.18-13.13.06:320][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.13.06:332][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.13.06:332][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.25.07:899][ 61]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.016
+[2017.12.18-13.25.07:904][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/SK_Ninja_Physics] ([1] browsable assets)...
+[2017.12.18-13.25.07:904][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/SK_Ninja_Physics]
+[2017.12.18-13.25.07:927][ 61]LogSavePackage: Save=9.01ms
+[2017.12.18-13.25.07:927][ 61]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_Physics_Auto903FC0A1E40709F915816D38ED42F33F5.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto9.uasset'
+[2017.12.18-13.25.07:928][ 61]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto9.uasset
+[2017.12.18-13.25.07:929][ 61]LogFileHelpers: Auto-saving content packages took 0.026
+[2017.12.18-13.26.29:000][546]Cmd: TRANSACTION UNDO
+[2017.12.18-13.26.29:000][546]LogEditorTransaction: Undo 컨스트레인트 이동
+[2017.12.18-13.26.29:373][546]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.26.29:453][546]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.26.29:453][546]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.26.39:214][934]Cmd: TRANSACTION UNDO
+[2017.12.18-13.26.39:214][934]LogEditorTransaction: Undo 컨스트레인트 이동
+[2017.12.18-13.26.39:619][934]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.26.39:707][934]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.26.39:708][934]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.26.52:984][624]Cmd: TRANSACTION UNDO
+[2017.12.18-13.26.52:984][624]LogEditorTransaction: Undo 컨스트레인트 이동
+[2017.12.18-13.26.53:345][624]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.26.53:419][624]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.26.53:420][624]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.26.54:078][633]Cmd: TRANSACTION UNDO
+[2017.12.18-13.26.54:078][633]LogEditorTransaction: Undo Swing 1 Motion 편집
+[2017.12.18-13.26.54:446][633]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.26.54:520][633]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.26.54:521][633]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.26.57:197][746]Cmd: TRANSACTION REDO
+[2017.12.18-13.26.57:197][746]LogEditorTransaction: Redo Swing 1 Motion 편집
+[2017.12.18-13.26.57:569][746]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.26.57:640][746]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.26.57:640][746]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.29.37:028][466]Cmd: TRANSACTION UNDO
+[2017.12.18-13.29.37:028][466]LogEditorTransaction: Undo 새 프리미티브 추가
+[2017.12.18-13.29.37:395][466]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.29.37:405][466]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.29.37:406][466]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.30.05:140][828]LogRenderer: Reallocating scene render targets to support 1144x928 Format 10 NumSamples 1 (Frame:437).
+[2017.12.18-13.30.52:685][342]Cmd: TRANSACTION UNDO
+[2017.12.18-13.30.52:685][342]LogEditorTransaction: Undo 새 프리미티브 추가
+[2017.12.18-13.30.53:111][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.30.53:122][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.30.53:123][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.32.32:600][350]Cmd: TRANSACTION UNDO
+[2017.12.18-13.32.32:600][350]LogEditorTransaction: Undo 바디 프로퍼티 붙여넣기
+[2017.12.18-13.32.32:978][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.32.33:034][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.32.33:035][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.33.00:964][789]Cmd: TRANSACTION REDO
+[2017.12.18-13.33.00:964][789]LogEditorTransaction: Redo 바디 프로퍼티 붙여넣기
+[2017.12.18-13.33.01:335][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.33.01:346][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.33.01:347][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.33.06:468][ 14]Cmd: TRANSACTION UNDO
+[2017.12.18-13.33.06:468][ 14]LogEditorTransaction: Undo 바디 프로퍼티 붙여넣기
+[2017.12.18-13.33.06:838][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.33.06:848][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.33.06:849][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.33.46:915][181]Cmd: TRANSACTION REDO
+[2017.12.18-13.33.46:915][181]LogEditorTransaction: Redo 바디 프로퍼티 붙여넣기
+[2017.12.18-13.33.47:281][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.33.47:369][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.33.47:370][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.37.07:324][ 91]Cmd: TRANSACTION UNDO
+[2017.12.18-13.37.07:324][ 91]LogEditorTransaction: Undo Z 편집
+[2017.12.18-13.37.07:725][ 91]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.37.07:797][ 91]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.37.07:798][ 91]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.37.32:918][392]Cmd: TRANSACTION UNDO
+[2017.12.18-13.37.32:918][392]LogEditorTransaction: Undo Z 편집
+[2017.12.18-13.37.33:277][392]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.18-13.37.33:334][392]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.18-13.37.33:335][392]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.18-13.38.17:275][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/SK_Ninja_Physics" FILE="C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja_Physics.uasset" SILENT=true
+[2017.12.18-13.38.17:297][473]LogSavePackage: Save=8.65ms
+[2017.12.18-13.38.17:297][473]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_PhysicsDD0598024D1764ADEA828FB5048AAE03.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja_Physics.uasset'
+[2017.12.18-13.38.17:301][473]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja_Physics.uasset
+[2017.12.18-13.45.07:776][765]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.017
+[2017.12.18-13.45.07:784][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/SK_Ninja_Physics] ([1] browsable assets)...
+[2017.12.18-13.45.07:784][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/SK_Ninja_Physics]
+[2017.12.18-13.45.07:807][765]LogSavePackage: Save=8.84ms
+[2017.12.18-13.45.07:807][765]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_Physics_Auto048920B394D222D1453F7DEAEF6CBD84C.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto0.uasset'
+[2017.12.18-13.45.07:809][765]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto0.uasset
+[2017.12.18-13.45.07:809][765]LogFileHelpers: Auto-saving content packages took 0.027
+[2017.12.18-13.55.23:098][758]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.012
+[2017.12.18-13.55.23:106][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/SK_Ninja_Physics] ([1] browsable assets)...
+[2017.12.18-13.55.23:106][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/SK_Ninja_Physics]
+[2017.12.18-13.55.23:129][758]LogSavePackage: Save=8.80ms
+[2017.12.18-13.55.23:129][758]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_Physics_Auto10A911562431676519011CDB528BA86F1.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto1.uasset'
+[2017.12.18-13.55.23:133][758]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Autosaves/Game/Characters/SK_Ninja_Physics_Auto1.uasset
+[2017.12.18-13.55.23:133][758]LogFileHelpers: Auto-saving content packages took 0.030
+[2017.12.18-13.56.07:889][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/SK_Ninja_Physics" FILE="C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja_Physics.uasset" SILENT=true
+[2017.12.18-13.56.07:907][187]LogSavePackage: Save=8.41ms
+[2017.12.18-13.56.07:907][187]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/SK_Ninja_PhysicsE79610C04C220E5909DE4BAF340340A5.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja_Physics.uasset'
+[2017.12.18-13.56.07:911][187]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Characters/SK_Ninja_Physics.uasset
+[2017.12.18-13.56.38:352][249]LogRenderer: Reallocating scene render targets to support 1208x928 Format 10 NumSamples 1 (Frame:10138).
+[2017.12.18-14.02.57:085][363]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2017.12.18-14.03.19:630][649]LogAIModule: Creating AISystem for world Test_Player_Movement
+[2017.12.18-14.03.19:746][649]Cmd: MAP LOAD FILE="C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Stage01/Test_Player_Movement.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.18-14.03.19:747][649]LightingResults: New page: 라이팅 빌드
+[2017.12.18-14.03.19:749][649]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 1
+SessionName : 
+Reason      : 맵 로드중: Test_Player_Movement.umap...
+
+Purging the undo buffer...
+
+[2017.12.18-14.03.19:753][649]LoadErrors: New page: 맵 로드중: Test_Player_Movement.umap
+[2017.12.18-14.03.19:860][649]MapCheck: New page: 맵 체크
+[2017.12.18-14.03.19:860][649]LightingResults: New page: 라이팅 빌드
+[2017.12.18-14.03.20:052][649]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.18-14.03.20:144][649]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.18-14.03.21:175][649]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 1,030.611ms.
+[2017.12.18-14.03.21:192][649]LogFileHelpers: Loading map 'Test_Player_Movement' took 1.502
+[2017.12.18-14.03.21:254][649]LogSlate: Took 0.036289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.18-14.03.23:166][790]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2017.12.18-14.03.23:180][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.18-14.03.23:180][790]PIE: New page: PIE 세션: Test_Player_Movement (2017. 12. 19. 오전 8:03:23)
+[2017.12.18-14.03.23:180][790]LogPlayLevel: Creating play world package: /Game/Maps/Stage01/UEDPIE_0_Test_Player_Movement
+[2017.12.18-14.03.23:193][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012622s)
+[2017.12.18-14.03.23:195][790]LogAIModule: Creating AISystem for world Test_Player_Movement
+[2017.12.18-14.03.23:195][790]LogPlayLevel: PIE: World Init took: (0.001720s)
+[2017.12.18-14.03.23:195][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage01/Test_Player_Movement.Test_Player_Movement to /Game/Maps/Stage01/UEDPIE_0_Test_Player_Movement.Test_Player_Movement (0.014743s)
+[2017.12.18-14.03.23:217][790]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.18-14.03.23:247][790]LogInit: FAudioDevice initialized.
+[2017.12.18-14.03.23:319][790]LogLoad: Game class is 'PNGameMode_C'
+[2017.12.18-14.03.23:323][790]LogWorld: Bringing World /Game/Maps/Stage01/UEDPIE_0_Test_Player_Movement.Test_Player_Movement up for play (max tick rate 0) at 2017.12.18-23.03.23
+[2017.12.18-14.03.23:323][790]LogWorld: Bringing up level for play took: 0.001477
+[2017.12.18-14.03.23:388][790]PIE: /Game/Maps/Stage01/UEDPIE_0_Test_Player_Movement 에 대한 에디터에서 플레이 시작 시간: 0.328
+[2017.12.18-14.03.23:549][790]LogRenderer: Reallocating scene render targets to support 1292x928 Format 10 NumSamples 1 (Frame:1).
+[2017.12.18-14.03.23:758][791]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098775 > MaxSimulationTimeStep (0.050) for 'PNPlayerPawn_C_0', movement 'Walking'
+[2017.12.18-14.04.49:113][881]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.18-14.04.49:185][881]LightingResults: New page: 라이팅 빌드
+[2017.12.18-14.04.49:187][881]LoadErrors: New page: 맵 로드중: Template_Default.umap
+[2017.12.18-14.04.49:203][881]MapCheck: New page: 맵 체크
+[2017.12.18-14.04.49:203][881]LightingResults: New page: 라이팅 빌드
+[2017.12.18-14.04.49:435][881]LogAIModule: Creating AISystem for world Untitled_1
+[2017.12.18-14.04.49:527][881]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.18-14.04.49:549][881]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.18-14.04.49:592][881]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 43.033ms.
+[2017.12.18-14.04.49:593][881]LogFileHelpers: Loading map 'Template_Default' took 0.482
+[2017.12.18-14.05.12:815][933]LogSavePackage: Save=55.12ms
+[2017.12.18-14.05.12:815][933]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Test_TriggerCF7222604EAAEF3BEE53738BE6D463FE.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Test/Test_Trigger.umap'
+[2017.12.18-14.05.12:817][933]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Test/Test_Trigger.umap
+[2017.12.18-14.05.12:903][933]LogSavePackage: Save=23.14ms
+[2017.12.18-14.05.12:903][933]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Test_Trigger_BuiltData30C6F06344A9514E19B9E7B0A22CDB27.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Test/Test_Trigger_BuiltData.uasset'
+[2017.12.18-14.05.12:906][933]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Test/Test_Trigger_BuiltData.uasset
+[2017.12.18-14.05.12:914][933]LogFileHelpers: Saving map 'Test_Trigger' took 0.315
+[2017.12.18-14.05.50:119][877]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 116 classes and 0 folders.
+[2017.12.18-14.07.04:793][ 65]BlueprintLog: New page: PNPlayerPawn 컴파일
+[2017.12.18-14.07.38:009][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PNPlayerPawn" FILE="C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Blueprints/PNPlayerPawn.uasset" SILENT=true
+[2017.12.18-14.07.38:384][799]LogSavePackage: Save=356.54ms
+[2017.12.18-14.07.38:384][799]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/PNPlayerPawnA3FBCE2C487EF7310014799960F243A8.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Blueprints/PNPlayerPawn.uasset'
+[2017.12.18-14.07.38:391][799]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Blueprints/PNPlayerPawn.uasset
+[2017.12.18-14.07.53:400][121]LogMaterial: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2017.12.18-14.07.53:592][121]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2017.12.18-14.07.54:676][121]LogMaterial: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2017.12.18-14.07.54:983][121]LogMaterial: Missing cached shader map for material M_Heat_Distortion, compiling. 
+[2017.12.18-14.08.08:130][771]LogSavePackage: Save=42.91ms
+[2017.12.18-14.08.08:130][771]LogSavePackage: Moving 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Saved/Test_Trigger096D3A334020357D77594387023585A9.tmp' to 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Test/Test_Trigger.umap'
+[2017.12.18-14.08.08:134][771]LogSavePackage: Display: Finished SavePackage C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/Maps/Test/Test_Trigger.umap
+[2017.12.18-14.08.08:155][771]LogFileHelpers: Saving map 'Test_Trigger' took 0.153
+[2017.12.18-14.08.10:875][873]Cmd: QUIT_EDITOR
+[2017.12.18-14.08.11:561][873]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.12.18-14.08.11:631][873]LogExit: Preparing to exit.
+[2017.12.18-14.08.13:422][873]LogExit: Editor shut down
+[2017.12.18-14.08.13:505][873]LogExit: Transaction tracking system shut down
+[2017.12.18-14.08.14:343][873]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.18-14.08.14:343][873]LogDirectoryWatcher: A directory notification for 'C:/[Codes]/GitRepository/UR_UnrealEngine4DEKIWAMERU_GAME_KAIHATSU/PaperNinja/Content/' was aborted.
+[2017.12.18-14.08.14:343][873]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.18-14.08.14:343][873]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.18-14.08.14:343][873]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.18-14.08.14:343][873]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.18-14.08.14:343][873]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
